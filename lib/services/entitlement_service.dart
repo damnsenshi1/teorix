@@ -34,8 +34,8 @@ class EntitlementService extends ChangeNotifier {
   }
 
   Future<void> initialize() async {
-    // New installs and debug builds always start Free. Paid state is restored
-    // only from RevenueCat/store receipts; stale local debug toggles are never trusted.
+    // Every launch starts from Free. Paid state is restored only from the
+    // verified store/RevenueCat state; stale local debug flags are never trusted.
     _pro = false;
     _plus = false;
     notifyListeners();
@@ -186,5 +186,14 @@ class EntitlementService extends ChangeNotifier {
       _plus = false;
       notifyListeners();
     }
+  }
+
+  // Kept only so older debug-only store UI references still compile.
+  // It intentionally never grants paid access: debug and release both remain
+  // Free unless RevenueCat/store verification returns a real entitlement.
+  Future<void> setDebugEntitlements({required bool pro, required bool plus}) async {
+    _pro = false;
+    _plus = false;
+    notifyListeners();
   }
 }
