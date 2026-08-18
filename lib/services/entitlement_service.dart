@@ -1,5 +1,4 @@
 import 'package:flutter/foundation.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import '../core/app_config.dart';
 import 'supabase_service.dart';
 import 'purchases/purchase_backend_stub.dart'
@@ -16,8 +15,6 @@ class EntitlementService extends ChangeNotifier {
   EntitlementService._();
   static final instance = EntitlementService._();
 
-  static const _proKey = 'entitlement_pro_v12';
-  static const _plusKey = 'entitlement_plus_v12';
   final PurchaseBackend _backend = PurchaseBackend();
   bool _pro = false;
   bool _plus = false;
@@ -37,7 +34,12 @@ class EntitlementService extends ChangeNotifier {
   }
 
   Future<void> initialize() async {
-    await _loadLocal();
+    // New installs and debug builds always start Free. Paid state is restored
+    // only from RevenueCat/store receipts; stale local debug toggles are never trusted.
+    _pro = false;
+    _plus = false;
+    notifyListeners();
+
     if (kIsWeb || _apiKey.isEmpty) return;
     try {
       final uid = SupabaseService.client?.auth.currentUser?.id;
@@ -49,48 +51,33 @@ class EntitlementService extends ChangeNotifier {
         onState: (pro, plus) {
           _pro = pro;
           _plus = plus || pro;
-          _persist();
+          notifyListeners();
         },
       );
       await refresh();
-    } catch (_) {}
-  }
-
-  Future<void> _loadLocal() async {
-    // Local entitlement toggles exist only for debug/Chrome testing. Production
-    // access is always rebuilt from RevenueCat CustomerInfo, which has its own
-    // signed store receipt validation and offline cache.
-    if (!kDebugMode) {
+    } catch (_) {
       _pro = false;
       _plus = false;
       notifyListeners();
-      return;
     }
-    final prefs = await SharedPreferences.getInstance();
-    _pro = prefs.getBool(_proKey) ?? false;
-    _plus = prefs.getBool(_plusKey) ?? false;
-    notifyListeners();
-  }
-
-  Future<void> _persist() async {
-    if (kDebugMode) {
-      final prefs = await SharedPreferences.getInstance();
-      await prefs.setBool(_proKey, _pro);
-      await prefs.setBool(_plusKey, _plus);
-    }
-    notifyListeners();
   }
 
   Future<void> _applyState(Map<String, bool>? state) async {
-    if (state == null) return;
-    _pro = state['pro'] ?? false;
-    _plus = (state['plus'] ?? false) || _pro;
-    await _persist();
+    if (state == null) {
+      _pro = false;
+      _plus = false;
+    } else {
+      _pro = state['pro'] ?? false;
+      _plus = (state['plus'] ?? false) || _pro;
+    }
+    notifyListeners();
   }
 
   Future<void> refresh() async {
     if (!configured) {
-      await _loadLocal();
+      _pro = false;
+      _plus = false;
+      notifyListeners();
       return;
     }
     try {
@@ -98,7 +85,11 @@ class EntitlementService extends ChangeNotifier {
         proEntitlementId: AppConfig.proEntitlementId,
         plusEntitlementId: AppConfig.plusEntitlementId,
       ));
-    } catch (_) {}
+    } catch (_) {
+      _pro = false;
+      _plus = false;
+      notifyListeners();
+    }
   }
 
   Future<bool> currentPro() async {
@@ -117,11 +108,14 @@ class EntitlementService extends ChangeNotifier {
     if (!configured) return [];
     try {
       final raw = await _backend.loadPackages();
-      return raw.map((e) => TxStorePackage(
-        productId: e['productId']?.toString() ?? '',
-        priceString: e['priceString']?.toString() ?? '',
-        nativePackage: e['native'],
-      )).where((e) => e.productId.isNotEmpty).toList();
+      return raw
+          .map((e) => TxStorePackage(
+                productId: e['productId']?.toString() ?? '',
+                priceString: e['priceString']?.toString() ?? '',
+                nativePackage: e['native'],
+              ))
+          .where((e) => e.productId.isNotEmpty)
+          .toList();
     } catch (_) {
       return [];
     }
@@ -168,24 +162,29 @@ class EntitlementService extends ChangeNotifier {
         proEntitlementId: AppConfig.proEntitlementId,
         plusEntitlementId: AppConfig.plusEntitlementId,
       ));
-    } catch (_) {}
+    } catch (_) {
+      _pro = false;
+      _plus = false;
+      notifyListeners();
+    }
   }
 
-
   Future<void> detachAccountIdentity() async {
-    if (!configured) return;
+    if (!configured) {
+      _pro = false;
+      _plus = false;
+      notifyListeners();
+      return;
+    }
     try {
       await _applyState(await _backend.logOut(
         proEntitlementId: AppConfig.proEntitlementId,
         plusEntitlementId: AppConfig.plusEntitlementId,
       ));
-    } catch (_) {}
-  }
-
-  Future<void> setDebugEntitlements({required bool pro, required bool plus}) async {
-    if (!kDebugMode) return;
-    _pro = pro;
-    _plus = plus || pro;
-    await _persist();
+    } catch (_) {
+      _pro = false;
+      _plus = false;
+      notifyListeners();
+    }
   }
 }
