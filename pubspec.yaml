@@ -1,7 +1,7 @@
 name: teorix
 description: Multi-country driving theory learning and practice app by Senshi Labs.
 publish_to: 'none'
-version: 1.3.2+23
+version: 1.3.3+24
 
 environment:
   sdk: '>=3.8.0 <4.0.0'
