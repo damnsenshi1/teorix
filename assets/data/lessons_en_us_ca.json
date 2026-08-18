@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "usca_001",
+    "category": "Road Rules",
+    "module": "Intersections",
+    "order": 1,
+    "title": "Intersections and right-of-way",
+    "minutes": 11,
+    "summary": "Right-of-way rules organize conflicts, but every driver must still avoid a collision when possible.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Right-of-way rules organize conflicts, but every driver must still avoid a collision when possible.",
+        "bullets": [
+          "Approach intersections at a speed that allows you to observe cross traffic.",
+          "Yield when required by signs, signals, or the situation."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Approach intersections at a speed that allows you to observe cross traffic.",
+        "bullets": [
+          "Yield when required by signs, signals, or the situation.",
+          "Do not enter an intersection you cannot clear."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Having the right-of-way does not remove the duty to drive safely.",
+        "bullets": [
+          "Having the right-of-way does not remove the duty to drive safely.",
+          "Look for pedestrians and cyclists before turning."
+        ]
+      }
+    ],
+    "key_points": [
+      "Approach intersections at a speed that allows you to observe cross traffic.",
+      "Yield when required by signs, signals, or the situation.",
+      "Do not enter an intersection you cannot clear."
+    ],
+    "exam_tips": [
+      "Having the right-of-way does not remove the duty to drive safely.",
+      "Look for pedestrians and cyclists before turning."
+    ],
+    "tags": [
+      "road rules",
+      "intersections",
+      "intersections and right-of-way"
+    ]
+  },
+  {
+    "id": "usca_002",
+    "category": "Road Rules",
+    "module": "Turns",
+    "order": 2,
+    "title": "Right and left turns",
+    "minutes": 12,
+    "summary": "Safe turns require early signaling, correct lane position, and a final check for other road users.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Safe turns require early signaling, correct lane position, and a final check for other road users.",
+        "bullets": [
+          "Signal before turning.",
+          "Check mirrors and blind spots."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Signal before turning.",
+        "bullets": [
+          "Check mirrors and blind spots.",
+          "Yield to pedestrians and other traffic as required."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Do not start the turn before checking the crosswalk.",
+        "bullets": [
+          "Do not start the turn before checking the crosswalk.",
+          "Use the lane intended for your movement."
+        ]
+      }
+    ],
+    "key_points": [
+      "Signal before turning.",
+      "Check mirrors and blind spots.",
+      "Yield to pedestrians and other traffic as required."
+    ],
+    "exam_tips": [
+      "Do not start the turn before checking the crosswalk.",
+      "Use the lane intended for your movement."
+    ],
+    "tags": [
+      "road rules",
+      "turns",
+      "right and left turns"
+    ]
+  },
+  {
+    "id": "usca_003",
+    "category": "Road Rules",
+    "module": "Speed",
+    "order": 3,
+    "title": "Speed and basic speed law",
+    "minutes": 13,
+    "summary": "A posted limit does not make that speed safe in every condition.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "A posted limit does not make that speed safe in every condition.",
+        "bullets": [
+          "Slow down for poor visibility, traffic, weather, or road conditions.",
+          "Higher speed reduces the time available to react."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Slow down for poor visibility, traffic, weather, or road conditions.",
+        "bullets": [
+          "Higher speed reduces the time available to react.",
+          "Drive at a speed that is reasonable for current conditions."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Conditions can require a speed below the posted limit.",
+        "bullets": [
+          "Conditions can require a speed below the posted limit.",
+          "Think about stopping distance and visibility together."
+        ]
+      }
+    ],
+    "key_points": [
+      "Slow down for poor visibility, traffic, weather, or road conditions.",
+      "Higher speed reduces the time available to react.",
+      "Drive at a speed that is reasonable for current conditions."
+    ],
+    "exam_tips": [
+      "Conditions can require a speed below the posted limit.",
+      "Think about stopping distance and visibility together."
+    ],
+    "tags": [
+      "road rules",
+      "speed",
+      "speed and basic speed law"
+    ]
+  },
+  {
+    "id": "usca_004",
+    "category": "Road Rules",
+    "module": "Passing",
+    "order": 4,
+    "title": "Passing and lane use",
+    "minutes": 14,
+    "summary": "Passing should only be attempted when visibility, markings, traffic, and available space make it safe.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Passing should only be attempted when visibility, markings, traffic, and available space make it safe.",
+        "bullets": [
+          "Check for vehicles approaching from behind before moving out.",
+          "Do not force another driver to brake sharply."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Check for vehicles approaching from behind before moving out.",
+        "bullets": [
+          "Do not force another driver to brake sharply.",
+          "Return to the lane only when there is enough space."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "If you cannot see enough road ahead, do not pass.",
+        "bullets": [
+          "If you cannot see enough road ahead, do not pass.",
+          "Lane markings matter."
+        ]
+      }
+    ],
+    "key_points": [
+      "Check for vehicles approaching from behind before moving out.",
+      "Do not force another driver to brake sharply.",
+      "Return to the lane only when there is enough space."
+    ],
+    "exam_tips": [
+      "If you cannot see enough road ahead, do not pass.",
+      "Lane markings matter."
+    ],
+    "tags": [
+      "road rules",
+      "passing",
+      "passing and lane use"
+    ]
+  },
+  {
+    "id": "usca_005",
+    "category": "Signs and Signals",
+    "module": "Signs",
+    "order": 1,
+    "title": "Regulatory and warning signs",
+    "minutes": 10,
+    "summary": "Signs use shapes, colors, and symbols to communicate rules and hazards quickly.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Signs use shapes, colors, and symbols to communicate rules and hazards quickly.",
+        "bullets": [
+          "A STOP sign requires a complete stop.",
+          "Warning signs alert you to conditions ahead."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "A STOP sign requires a complete stop.",
+        "bullets": [
+          "Warning signs alert you to conditions ahead.",
+          "Read supplemental plaques with the main sign."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Learn sign families, not just individual pictures.",
+        "bullets": [
+          "Learn sign families, not just individual pictures.",
+          "Shape can help identify a sign before the words are readable."
+        ]
+      }
+    ],
+    "key_points": [
+      "A STOP sign requires a complete stop.",
+      "Warning signs alert you to conditions ahead.",
+      "Read supplemental plaques with the main sign."
+    ],
+    "exam_tips": [
+      "Learn sign families, not just individual pictures.",
+      "Shape can help identify a sign before the words are readable."
+    ],
+    "tags": [
+      "signs and signals",
+      "signs",
+      "regulatory and warning signs"
+    ]
+  },
+  {
+    "id": "usca_006",
+    "category": "Signs and Signals",
+    "module": "Signals",
+    "order": 2,
+    "title": "Traffic lights and arrows",
+    "minutes": 11,
+    "summary": "Traffic signals control movements through intersections and may apply to specific directions.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Traffic signals control movements through intersections and may apply to specific directions.",
+        "bullets": [
+          "A solid red light requires a stop.",
+          "A red arrow means stop and remain stopped until a permitted signal appears."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "A solid red light requires a stop.",
+        "bullets": [
+          "A red arrow means stop and remain stopped until a permitted signal appears.",
+          "A green signal does not allow you to block the intersection."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Check which signal applies to your lane.",
+        "bullets": [
+          "Check which signal applies to your lane.",
+          "Even with green, scan for traffic still clearing the intersection."
+        ]
+      }
+    ],
+    "key_points": [
+      "A solid red light requires a stop.",
+      "A red arrow means stop and remain stopped until a permitted signal appears.",
+      "A green signal does not allow you to block the intersection."
+    ],
+    "exam_tips": [
+      "Check which signal applies to your lane.",
+      "Even with green, scan for traffic still clearing the intersection."
+    ],
+    "tags": [
+      "signs and signals",
+      "signals",
+      "traffic lights and arrows"
+    ]
+  },
+  {
+    "id": "usca_007",
+    "category": "Signs and Signals",
+    "module": "Markings",
+    "order": 3,
+    "title": "Lane lines and pavement markings",
+    "minutes": 12,
+    "summary": "Pavement markings separate traffic, guide turns, and show restrictions or special-use lanes.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Pavement markings separate traffic, guide turns, and show restrictions or special-use lanes.",
+        "bullets": [
+          "Follow lane arrows before entering the intersection.",
+          "Do not cross markings when the law prohibits it."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Follow lane arrows before entering the intersection.",
+        "bullets": [
+          "Do not cross markings when the law prohibits it.",
+          "Use crosswalk and stop-line markings as reference points."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Read road markings early.",
+        "bullets": [
+          "Read road markings early.",
+          "Combine pavement markings with signs and signals."
+        ]
+      }
+    ],
+    "key_points": [
+      "Follow lane arrows before entering the intersection.",
+      "Do not cross markings when the law prohibits it.",
+      "Use crosswalk and stop-line markings as reference points."
+    ],
+    "exam_tips": [
+      "Read road markings early.",
+      "Combine pavement markings with signs and signals."
+    ],
+    "tags": [
+      "signs and signals",
+      "markings",
+      "lane lines and pavement markings"
+    ]
+  },
+  {
+    "id": "usca_008",
+    "category": "Signs and Signals",
+    "module": "Curb",
+    "order": 4,
+    "title": "Curb colors and parking controls",
+    "minutes": 13,
+    "summary": "Curb markings and nearby signs can restrict stopping, loading, or parking.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Curb markings and nearby signs can restrict stopping, loading, or parking.",
+        "bullets": [
+          "Check signs because local rules may add restrictions.",
+          "Do not block accessible spaces or access aisles."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Check signs because local rules may add restrictions.",
+        "bullets": [
+          "Do not block accessible spaces or access aisles.",
+          "Park without creating a visibility or traffic hazard."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Curb color and posted signs work together.",
+        "bullets": [
+          "Curb color and posted signs work together.",
+          "If restrictions conflict, follow the controlling sign or law."
+        ]
+      }
+    ],
+    "key_points": [
+      "Check signs because local rules may add restrictions.",
+      "Do not block accessible spaces or access aisles.",
+      "Park without creating a visibility or traffic hazard."
+    ],
+    "exam_tips": [
+      "Curb color and posted signs work together.",
+      "If restrictions conflict, follow the controlling sign or law."
+    ],
+    "tags": [
+      "signs and signals",
+      "curb",
+      "curb colors and parking controls"
+    ]
+  },
+  {
+    "id": "usca_009",
+    "category": "Safe Driving",
+    "module": "Scanning",
+    "order": 1,
+    "title": "Visual scanning and blind spots",
+    "minutes": 14,
+    "summary": "Safe drivers keep their eyes moving and regularly scan mirrors, the road ahead, and blind spots.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Safe drivers keep their eyes moving and regularly scan mirrors, the road ahead, and blind spots.",
+        "bullets": [
+          "Look well ahead rather than only at the vehicle in front.",
+          "Check blind spots before lane changes."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Look well ahead rather than only at the vehicle in front.",
+        "bullets": [
+          "Check blind spots before lane changes.",
+          "Use mirrors frequently but do not rely on them alone."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "A shoulder check covers areas mirrors may miss.",
+        "bullets": [
+          "A shoulder check covers areas mirrors may miss.",
+          "Early scanning reduces surprise."
+        ]
+      }
+    ],
+    "key_points": [
+      "Look well ahead rather than only at the vehicle in front.",
+      "Check blind spots before lane changes.",
+      "Use mirrors frequently but do not rely on them alone."
+    ],
+    "exam_tips": [
+      "A shoulder check covers areas mirrors may miss.",
+      "Early scanning reduces surprise."
+    ],
+    "tags": [
+      "safe driving",
+      "scanning",
+      "visual scanning and blind spots"
+    ]
+  },
+  {
+    "id": "usca_010",
+    "category": "Safe Driving",
+    "module": "Following",
+    "order": 2,
+    "title": "Following distance",
+    "minutes": 10,
+    "summary": "Space ahead gives you time to react when traffic slows or hazards appear.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Space ahead gives you time to react when traffic slows or hazards appear.",
+        "bullets": [
+          "Increase following distance in rain or poor visibility.",
+          "Avoid following large vehicles so closely that they block your view."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Increase following distance in rain or poor visibility.",
+        "bullets": [
+          "Avoid following large vehicles so closely that they block your view.",
+          "Leave extra space when being tailgated rather than retaliating."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "More space means more options.",
+        "bullets": [
+          "More space means more options.",
+          "Bad conditions require larger margins."
+        ]
+      }
+    ],
+    "key_points": [
+      "Increase following distance in rain or poor visibility.",
+      "Avoid following large vehicles so closely that they block your view.",
+      "Leave extra space when being tailgated rather than retaliating."
+    ],
+    "exam_tips": [
+      "More space means more options.",
+      "Bad conditions require larger margins."
+    ],
+    "tags": [
+      "safe driving",
+      "following",
+      "following distance"
+    ]
+  },
+  {
+    "id": "usca_011",
+    "category": "Safe Driving",
+    "module": "Night",
+    "order": 3,
+    "title": "Night and low-visibility driving",
+    "minutes": 11,
+    "summary": "Darkness reduces how far and how clearly you can see hazards.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Darkness reduces how far and how clearly you can see hazards.",
+        "bullets": [
+          "Reduce speed when your sight distance is limited.",
+          "Keep lights and windows clean."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Reduce speed when your sight distance is limited.",
+        "bullets": [
+          "Keep lights and windows clean.",
+          "Avoid staring at bright oncoming headlights."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Do not outrun what you can see.",
+        "bullets": [
+          "Do not outrun what you can see.",
+          "Visibility is part of safe speed."
+        ]
+      }
+    ],
+    "key_points": [
+      "Reduce speed when your sight distance is limited.",
+      "Keep lights and windows clean.",
+      "Avoid staring at bright oncoming headlights."
+    ],
+    "exam_tips": [
+      "Do not outrun what you can see.",
+      "Visibility is part of safe speed."
+    ],
+    "tags": [
+      "safe driving",
+      "night",
+      "night and low-visibility driving"
+    ]
+  },
+  {
+    "id": "usca_012",
+    "category": "Safe Driving",
+    "module": "Emergency",
+    "order": 4,
+    "title": "Emergency and evasive decisions",
+    "minutes": 12,
+    "summary": "In an emergency, controlled braking and steering are usually safer than panic actions.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "In an emergency, controlled braking and steering are usually safer than panic actions.",
+        "bullets": [
+          "Keep both hands ready to control the vehicle.",
+          "Use available escape space when needed."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Keep both hands ready to control the vehicle.",
+        "bullets": [
+          "Use available escape space when needed.",
+          "After a breakdown, get to a safer location when possible."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Avoid abrupt overcorrection.",
+        "bullets": [
+          "Avoid abrupt overcorrection.",
+          "First prevent a second collision."
+        ]
+      }
+    ],
+    "key_points": [
+      "Keep both hands ready to control the vehicle.",
+      "Use available escape space when needed.",
+      "After a breakdown, get to a safer location when possible."
+    ],
+    "exam_tips": [
+      "Avoid abrupt overcorrection.",
+      "First prevent a second collision."
+    ],
+    "tags": [
+      "safe driving",
+      "emergency",
+      "emergency and evasive decisions"
+    ]
+  },
+  {
+    "id": "usca_013",
+    "category": "Sharing the Road",
+    "module": "Pedestrians",
+    "order": 1,
+    "title": "Pedestrians and crosswalks",
+    "minutes": 13,
+    "summary": "Pedestrians are vulnerable and may be harder to see at night or around parked vehicles.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Pedestrians are vulnerable and may be harder to see at night or around parked vehicles.",
+        "bullets": [
+          "Yield as required at crosswalks.",
+          "Do not pass a vehicle stopped for a pedestrian."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Yield as required at crosswalks.",
+        "bullets": [
+          "Do not pass a vehicle stopped for a pedestrian.",
+          "Watch for children, older adults, and people with disabilities."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Scan sidewalks and curb areas before turning.",
+        "bullets": [
+          "Scan sidewalks and curb areas before turning.",
+          "Expect slower or unexpected movement."
+        ]
+      }
+    ],
+    "key_points": [
+      "Yield as required at crosswalks.",
+      "Do not pass a vehicle stopped for a pedestrian.",
+      "Watch for children, older adults, and people with disabilities."
+    ],
+    "exam_tips": [
+      "Scan sidewalks and curb areas before turning.",
+      "Expect slower or unexpected movement."
+    ],
+    "tags": [
+      "sharing the road",
+      "pedestrians",
+      "pedestrians and crosswalks"
+    ]
+  },
+  {
+    "id": "usca_014",
+    "category": "Sharing the Road",
+    "module": "Bicycles",
+    "order": 2,
+    "title": "Bicyclists and bike lanes",
+    "minutes": 14,
+    "summary": "Bicyclists have less physical protection and can be difficult to see in blind spots.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Bicyclists have less physical protection and can be difficult to see in blind spots.",
+        "bullets": [
+          "Check for bicycles before turning or opening a door.",
+          "Give safe space when passing."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Check for bicycles before turning or opening a door.",
+        "bullets": [
+          "Give safe space when passing.",
+          "Do not drive in a bike lane except where permitted for a maneuver."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Look over your shoulder before crossing a bike lane.",
+        "bullets": [
+          "Look over your shoulder before crossing a bike lane.",
+          "Expect bicycles near intersections."
+        ]
+      }
+    ],
+    "key_points": [
+      "Check for bicycles before turning or opening a door.",
+      "Give safe space when passing.",
+      "Do not drive in a bike lane except where permitted for a maneuver."
+    ],
+    "exam_tips": [
+      "Look over your shoulder before crossing a bike lane.",
+      "Expect bicycles near intersections."
+    ],
+    "tags": [
+      "sharing the road",
+      "bicycles",
+      "bicyclists and bike lanes"
+    ]
+  },
+  {
+    "id": "usca_015",
+    "category": "Sharing the Road",
+    "module": "Motorcycles",
+    "order": 3,
+    "title": "Motorcycles",
+    "minutes": 10,
+    "summary": "Motorcycles can be hidden by vehicle pillars and appear farther away because of their smaller size.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Motorcycles can be hidden by vehicle pillars and appear farther away because of their smaller size.",
+        "bullets": [
+          "Double-check before turning across a motorcycle path.",
+          "Allow a full lane position where required."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Double-check before turning across a motorcycle path.",
+        "bullets": [
+          "Allow a full lane position where required.",
+          "Increase care in poor weather."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Look twice at intersections.",
+        "bullets": [
+          "Look twice at intersections.",
+          "Do not judge motorcycle distance by size alone."
+        ]
+      }
+    ],
+    "key_points": [
+      "Double-check before turning across a motorcycle path.",
+      "Allow a full lane position where required.",
+      "Increase care in poor weather."
+    ],
+    "exam_tips": [
+      "Look twice at intersections.",
+      "Do not judge motorcycle distance by size alone."
+    ],
+    "tags": [
+      "sharing the road",
+      "motorcycles",
+      "motorcycles"
+    ]
+  },
+  {
+    "id": "usca_016",
+    "category": "Sharing the Road",
+    "module": "Trucks",
+    "order": 4,
+    "title": "Large trucks and buses",
+    "minutes": 11,
+    "summary": "Large vehicles have significant blind spots and need more room to turn and stop.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Large vehicles have significant blind spots and need more room to turn and stop.",
+        "bullets": [
+          "Avoid lingering beside a truck.",
+          "Do not cut closely in front of a heavy vehicle."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Avoid lingering beside a truck.",
+        "bullets": [
+          "Do not cut closely in front of a heavy vehicle.",
+          "Expect wide turns."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "If you cannot see the truck driver in the mirror, the driver may not see you.",
+        "bullets": [
+          "If you cannot see the truck driver in the mirror, the driver may not see you.",
+          "Give large vehicles extra room."
+        ]
+      }
+    ],
+    "key_points": [
+      "Avoid lingering beside a truck.",
+      "Do not cut closely in front of a heavy vehicle.",
+      "Expect wide turns."
+    ],
+    "exam_tips": [
+      "If you cannot see the truck driver in the mirror, the driver may not see you.",
+      "Give large vehicles extra room."
+    ],
+    "tags": [
+      "sharing the road",
+      "trucks",
+      "large trucks and buses"
+    ]
+  },
+  {
+    "id": "usca_017",
+    "category": "Alcohol and Drugs",
+    "module": "Impairment",
+    "order": 1,
+    "title": "Alcohol, drugs, and impairment",
+    "minutes": 12,
+    "summary": "Alcohol, cannabis, illegal drugs, and some medications can impair judgment, coordination, and reaction.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Alcohol, cannabis, illegal drugs, and some medications can impair judgment, coordination, and reaction.",
+        "bullets": [
+          "Do not drive when impaired.",
+          "Mixing substances can increase impairment."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Do not drive when impaired.",
+        "bullets": [
+          "Mixing substances can increase impairment.",
+          "A legal medication can still make driving unsafe."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "The safest choice after impairment is not to drive.",
+        "bullets": [
+          "The safest choice after impairment is not to drive.",
+          "Read medication warnings."
+        ]
+      }
+    ],
+    "key_points": [
+      "Do not drive when impaired.",
+      "Mixing substances can increase impairment.",
+      "A legal medication can still make driving unsafe."
+    ],
+    "exam_tips": [
+      "The safest choice after impairment is not to drive.",
+      "Read medication warnings."
+    ],
+    "tags": [
+      "alcohol and drugs",
+      "impairment",
+      "alcohol, drugs, and impairment"
+    ]
+  },
+  {
+    "id": "usca_018",
+    "category": "Alcohol and Drugs",
+    "module": "Planning",
+    "order": 2,
+    "title": "Plan a sober ride",
+    "minutes": 13,
+    "summary": "Planning transportation before drinking helps prevent last-minute risky decisions.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Planning transportation before drinking helps prevent last-minute risky decisions.",
+        "bullets": [
+          "Use a sober designated driver or other safe transportation.",
+          "Do not let an impaired person drive if you can safely prevent it."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Use a sober designated driver or other safe transportation.",
+        "bullets": [
+          "Do not let an impaired person drive if you can safely prevent it.",
+          "Leave enough time for impairment to end."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Coffee does not instantly remove impairment.",
+        "bullets": [
+          "Coffee does not instantly remove impairment.",
+          "Plan before the event."
+        ]
+      }
+    ],
+    "key_points": [
+      "Use a sober designated driver or other safe transportation.",
+      "Do not let an impaired person drive if you can safely prevent it.",
+      "Leave enough time for impairment to end."
+    ],
+    "exam_tips": [
+      "Coffee does not instantly remove impairment.",
+      "Plan before the event."
+    ],
+    "tags": [
+      "alcohol and drugs",
+      "planning",
+      "plan a sober ride"
+    ]
+  },
+  {
+    "id": "usca_019",
+    "category": "Alcohol and Drugs",
+    "module": "Young drivers",
+    "order": 3,
+    "title": "Underage and novice driver risks",
+    "minutes": 14,
+    "summary": "New drivers have less experience managing hazards, so impairment and distraction are especially dangerous.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "New drivers have less experience managing hazards, so impairment and distraction are especially dangerous.",
+        "bullets": [
+          "Follow all license restrictions that apply to you.",
+          "Avoid peer pressure that encourages risky driving."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Follow all license restrictions that apply to you.",
+        "bullets": [
+          "Avoid peer pressure that encourages risky driving.",
+          "Focus on building consistent safe habits."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Experience does not cancel impairment.",
+        "bullets": [
+          "Experience does not cancel impairment.",
+          "Restrictions are designed to reduce high-risk situations."
+        ]
+      }
+    ],
+    "key_points": [
+      "Follow all license restrictions that apply to you.",
+      "Avoid peer pressure that encourages risky driving.",
+      "Focus on building consistent safe habits."
+    ],
+    "exam_tips": [
+      "Experience does not cancel impairment.",
+      "Restrictions are designed to reduce high-risk situations."
+    ],
+    "tags": [
+      "alcohol and drugs",
+      "young drivers",
+      "underage and novice driver risks"
+    ]
+  },
+  {
+    "id": "usca_020",
+    "category": "Alcohol and Drugs",
+    "module": "Medication",
+    "order": 4,
+    "title": "Medication and driving",
+    "minutes": 10,
+    "summary": "Prescription and over-the-counter drugs may cause drowsiness, blurred vision, or slower reactions.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Prescription and over-the-counter drugs may cause drowsiness, blurred vision, or slower reactions.",
+        "bullets": [
+          "Read labels and pharmacist instructions.",
+          "Do not combine substances against medical advice."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Read labels and pharmacist instructions.",
+        "bullets": [
+          "Do not combine substances against medical advice.",
+          "If a medicine makes you unsafe to drive, choose another way to travel."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "“Over the counter” does not mean safe for driving.",
+        "bullets": [
+          "“Over the counter” does not mean safe for driving.",
+          "Watch for drowsiness warnings."
+        ]
+      }
+    ],
+    "key_points": [
+      "Read labels and pharmacist instructions.",
+      "Do not combine substances against medical advice.",
+      "If a medicine makes you unsafe to drive, choose another way to travel."
+    ],
+    "exam_tips": [
+      "“Over the counter” does not mean safe for driving.",
+      "Watch for drowsiness warnings."
+    ],
+    "tags": [
+      "alcohol and drugs",
+      "medication",
+      "medication and driving"
+    ]
+  },
+  {
+    "id": "usca_021",
+    "category": "Parking and Curb Rules",
+    "module": "Parking",
+    "order": 1,
+    "title": "Basic parking safety",
+    "minutes": 11,
+    "summary": "Park so the vehicle is secure, legal, and does not interfere with other road users.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Park so the vehicle is secure, legal, and does not interfere with other road users.",
+        "bullets": [
+          "Set the parking brake when appropriate.",
+          "Check traffic before opening a door."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Set the parking brake when appropriate.",
+        "bullets": [
+          "Check traffic before opening a door.",
+          "Do not block driveways or required access areas."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Parking includes the safety of people getting out.",
+        "bullets": [
+          "Parking includes the safety of people getting out.",
+          "Always check signs."
+        ]
+      }
+    ],
+    "key_points": [
+      "Set the parking brake when appropriate.",
+      "Check traffic before opening a door.",
+      "Do not block driveways or required access areas."
+    ],
+    "exam_tips": [
+      "Parking includes the safety of people getting out.",
+      "Always check signs."
+    ],
+    "tags": [
+      "parking and curb rules",
+      "parking",
+      "basic parking safety"
+    ]
+  },
+  {
+    "id": "usca_022",
+    "category": "Parking and Curb Rules",
+    "module": "Hills",
+    "order": 2,
+    "title": "Parking on hills",
+    "minutes": 12,
+    "summary": "When parking on a slope, secure the vehicle so it is less likely to roll into traffic.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "When parking on a slope, secure the vehicle so it is less likely to roll into traffic.",
+        "bullets": [
+          "Use the parking brake.",
+          "Position wheels according to the curb and slope."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Use the parking brake.",
+        "bullets": [
+          "Position wheels according to the curb and slope.",
+          "Make sure the vehicle is fully stopped before leaving it."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Think about where the vehicle would roll if the brake failed.",
+        "bullets": [
+          "Think about where the vehicle would roll if the brake failed.",
+          "Use both wheel position and parking brake."
+        ]
+      }
+    ],
+    "key_points": [
+      "Use the parking brake.",
+      "Position wheels according to the curb and slope.",
+      "Make sure the vehicle is fully stopped before leaving it."
+    ],
+    "exam_tips": [
+      "Think about where the vehicle would roll if the brake failed.",
+      "Use both wheel position and parking brake."
+    ],
+    "tags": [
+      "parking and curb rules",
+      "hills",
+      "parking on hills"
+    ]
+  },
+  {
+    "id": "usca_023",
+    "category": "Parking and Curb Rules",
+    "module": "Visibility",
+    "order": 3,
+    "title": "Parking near corners and crossings",
+    "minutes": 13,
+    "summary": "Parking too close to crossings or corners can block sight lines and endanger others.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Parking too close to crossings or corners can block sight lines and endanger others.",
+        "bullets": [
+          "Keep required areas clear.",
+          "Do not block crosswalks."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Keep required areas clear.",
+        "bullets": [
+          "Do not block crosswalks.",
+          "Consider what pedestrians and drivers can see."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "A legal-looking space can still be unsafe if it blocks visibility.",
+        "bullets": [
+          "A legal-looking space can still be unsafe if it blocks visibility.",
+          "Check curb and signs."
+        ]
+      }
+    ],
+    "key_points": [
+      "Keep required areas clear.",
+      "Do not block crosswalks.",
+      "Consider what pedestrians and drivers can see."
+    ],
+    "exam_tips": [
+      "A legal-looking space can still be unsafe if it blocks visibility.",
+      "Check curb and signs."
+    ],
+    "tags": [
+      "parking and curb rules",
+      "visibility",
+      "parking near corners and crossings"
+    ]
+  },
+  {
+    "id": "usca_024",
+    "category": "Parking and Curb Rules",
+    "module": "Loading",
+    "order": 4,
+    "title": "Passenger and loading zones",
+    "minutes": 14,
+    "summary": "Loading areas and special curb zones have specific uses and time restrictions.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Loading areas and special curb zones have specific uses and time restrictions.",
+        "bullets": [
+          "Use the zone only for the allowed purpose.",
+          "Do not leave the vehicle where stopping is prohibited."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Use the zone only for the allowed purpose.",
+        "bullets": [
+          "Do not leave the vehicle where stopping is prohibited.",
+          "Keep traffic moving when loading or unloading."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Read the exact restriction.",
+        "bullets": [
+          "Read the exact restriction.",
+          "Local signs may specify times."
+        ]
+      }
+    ],
+    "key_points": [
+      "Use the zone only for the allowed purpose.",
+      "Do not leave the vehicle where stopping is prohibited.",
+      "Keep traffic moving when loading or unloading."
+    ],
+    "exam_tips": [
+      "Read the exact restriction.",
+      "Local signs may specify times."
+    ],
+    "tags": [
+      "parking and curb rules",
+      "loading",
+      "passenger and loading zones"
+    ]
+  },
+  {
+    "id": "usca_025",
+    "category": "Collisions and Insurance",
+    "module": "Collision",
+    "order": 1,
+    "title": "What to do after a collision",
+    "minutes": 10,
+    "summary": "After a collision, protect people first, then exchange required information and follow reporting rules.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "After a collision, protect people first, then exchange required information and follow reporting rules.",
+        "bullets": [
+          "Stop and check for injuries.",
+          "Move out of danger when it is safe and lawful to do so."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Stop and check for injuries.",
+        "bullets": [
+          "Move out of danger when it is safe and lawful to do so.",
+          "Call emergency services when needed."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Safety and medical needs come before arguing about fault.",
+        "bullets": [
+          "Safety and medical needs come before arguing about fault.",
+          "Document the situation safely."
+        ]
+      }
+    ],
+    "key_points": [
+      "Stop and check for injuries.",
+      "Move out of danger when it is safe and lawful to do so.",
+      "Call emergency services when needed."
+    ],
+    "exam_tips": [
+      "Safety and medical needs come before arguing about fault.",
+      "Document the situation safely."
+    ],
+    "tags": [
+      "collisions and insurance",
+      "collision",
+      "what to do after a collision"
+    ]
+  },
+  {
+    "id": "usca_026",
+    "category": "Collisions and Insurance",
+    "module": "Insurance",
+    "order": 2,
+    "title": "Financial responsibility",
+    "minutes": 11,
+    "summary": "Drivers must understand the financial-responsibility and insurance requirements that apply to vehicle use.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Drivers must understand the financial-responsibility and insurance requirements that apply to vehicle use.",
+        "bullets": [
+          "Keep required coverage current.",
+          "Be prepared to provide required proof when necessary."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Keep required coverage current.",
+        "bullets": [
+          "Be prepared to provide required proof when necessary.",
+          "A lapse in required coverage can create legal and financial problems."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Insurance rules are part of legal vehicle operation.",
+        "bullets": [
+          "Insurance rules are part of legal vehicle operation.",
+          "Do not assume another person’s policy automatically covers every situation."
+        ]
+      }
+    ],
+    "key_points": [
+      "Keep required coverage current.",
+      "Be prepared to provide required proof when necessary.",
+      "A lapse in required coverage can create legal and financial problems."
+    ],
+    "exam_tips": [
+      "Insurance rules are part of legal vehicle operation.",
+      "Do not assume another person’s policy automatically covers every situation."
+    ],
+    "tags": [
+      "collisions and insurance",
+      "insurance",
+      "financial responsibility"
+    ]
+  },
+  {
+    "id": "usca_027",
+    "category": "Collisions and Insurance",
+    "module": "Breakdown",
+    "order": 3,
+    "title": "Breakdowns and roadside safety",
+    "minutes": 12,
+    "summary": "A disabled vehicle can create a secondary collision risk, especially on high-speed roads.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "A disabled vehicle can create a secondary collision risk, especially on high-speed roads.",
+        "bullets": [
+          "Move as far from moving traffic as safely possible.",
+          "Use hazard warning measures when appropriate."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Move as far from moving traffic as safely possible.",
+        "bullets": [
+          "Use hazard warning measures when appropriate.",
+          "Wait in the safest available location."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Avoid standing in live traffic lanes.",
+        "bullets": [
+          "Avoid standing in live traffic lanes.",
+          "Think first about visibility and separation from traffic."
+        ]
+      }
+    ],
+    "key_points": [
+      "Move as far from moving traffic as safely possible.",
+      "Use hazard warning measures when appropriate.",
+      "Wait in the safest available location."
+    ],
+    "exam_tips": [
+      "Avoid standing in live traffic lanes.",
+      "Think first about visibility and separation from traffic."
+    ],
+    "tags": [
+      "collisions and insurance",
+      "breakdown",
+      "breakdowns and roadside safety"
+    ]
+  },
+  {
+    "id": "usca_028",
+    "category": "Collisions and Insurance",
+    "module": "Emergency vehicles",
+    "order": 4,
+    "title": "Emergency vehicles and roadside workers",
+    "minutes": 13,
+    "summary": "Drivers must respond safely to emergency vehicles and people working at the roadside.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Drivers must respond safely to emergency vehicles and people working at the roadside.",
+        "bullets": [
+          "Stay alert for lights, sirens, and lane closures.",
+          "Make room without creating a new hazard."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Stay alert for lights, sirens, and lane closures.",
+        "bullets": [
+          "Make room without creating a new hazard.",
+          "Slow and move over when required and safe."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Do not stop in a place that blocks emergency access.",
+        "bullets": [
+          "Do not stop in a place that blocks emergency access.",
+          "Check mirrors before moving aside."
+        ]
+      }
+    ],
+    "key_points": [
+      "Stay alert for lights, sirens, and lane closures.",
+      "Make room without creating a new hazard.",
+      "Slow and move over when required and safe."
+    ],
+    "exam_tips": [
+      "Do not stop in a place that blocks emergency access.",
+      "Check mirrors before moving aside."
+    ],
+    "tags": [
+      "collisions and insurance",
+      "emergency vehicles",
+      "emergency vehicles and roadside workers"
+    ]
+  },
+  {
+    "id": "usca_029",
+    "category": "Driver Safety",
+    "module": "Distraction",
+    "order": 1,
+    "title": "Phones and distraction",
+    "minutes": 14,
+    "summary": "Any activity that pulls eyes, hands, or attention away from driving increases crash risk.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Any activity that pulls eyes, hands, or attention away from driving increases crash risk.",
+        "bullets": [
+          "Set navigation before driving when possible.",
+          "Do not type or read messages while driving."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Set navigation before driving when possible.",
+        "bullets": [
+          "Do not type or read messages while driving.",
+          "Pull over safely for tasks that require attention."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "A short glance away can cover a long distance.",
+        "bullets": [
+          "A short glance away can cover a long distance.",
+          "Hands-free does not remove all mental distraction."
+        ]
+      }
+    ],
+    "key_points": [
+      "Set navigation before driving when possible.",
+      "Do not type or read messages while driving.",
+      "Pull over safely for tasks that require attention."
+    ],
+    "exam_tips": [
+      "A short glance away can cover a long distance.",
+      "Hands-free does not remove all mental distraction."
+    ],
+    "tags": [
+      "driver safety",
+      "distraction",
+      "phones and distraction"
+    ]
+  },
+  {
+    "id": "usca_030",
+    "category": "Driver Safety",
+    "module": "Fatigue",
+    "order": 2,
+    "title": "Drowsy driving",
+    "minutes": 10,
+    "summary": "Fatigue can reduce alertness and cause delayed reactions or microsleep.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Fatigue can reduce alertness and cause delayed reactions or microsleep.",
+        "bullets": [
+          "Stop and rest when drowsy.",
+          "Long trips need planned breaks."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Stop and rest when drowsy.",
+        "bullets": [
+          "Long trips need planned breaks.",
+          "Do not rely on loud music or open windows as a substitute for sleep."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Sleepiness is a safety warning.",
+        "bullets": [
+          "Sleepiness is a safety warning.",
+          "Real rest is the reliable response."
+        ]
+      }
+    ],
+    "key_points": [
+      "Stop and rest when drowsy.",
+      "Long trips need planned breaks.",
+      "Do not rely on loud music or open windows as a substitute for sleep."
+    ],
+    "exam_tips": [
+      "Sleepiness is a safety warning.",
+      "Real rest is the reliable response."
+    ],
+    "tags": [
+      "driver safety",
+      "fatigue",
+      "drowsy driving"
+    ]
+  },
+  {
+    "id": "usca_031",
+    "category": "Driver Safety",
+    "module": "Aggression",
+    "order": 3,
+    "title": "Road rage and aggressive driving",
+    "minutes": 11,
+    "summary": "Aggressive behavior escalates conflict and reduces the time available for safe decisions.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Aggressive behavior escalates conflict and reduces the time available for safe decisions.",
+        "bullets": [
+          "Do not challenge an aggressive driver.",
+          "Create space and avoid eye-contact confrontation."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Do not challenge an aggressive driver.",
+        "bullets": [
+          "Create space and avoid eye-contact confrontation.",
+          "Contact authorities if a situation becomes dangerous."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Your goal is to leave the conflict safely.",
+        "bullets": [
+          "Your goal is to leave the conflict safely.",
+          "Do not retaliate."
+        ]
+      }
+    ],
+    "key_points": [
+      "Do not challenge an aggressive driver.",
+      "Create space and avoid eye-contact confrontation.",
+      "Contact authorities if a situation becomes dangerous."
+    ],
+    "exam_tips": [
+      "Your goal is to leave the conflict safely.",
+      "Do not retaliate."
+    ],
+    "tags": [
+      "driver safety",
+      "aggression",
+      "road rage and aggressive driving"
+    ]
+  },
+  {
+    "id": "usca_032",
+    "category": "Driver Safety",
+    "module": "Preparation",
+    "order": 4,
+    "title": "Trip and vehicle preparation",
+    "minutes": 12,
+    "summary": "A quick pre-trip check can prevent avoidable problems and reduce distraction after you start driving.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "A quick pre-trip check can prevent avoidable problems and reduce distraction after you start driving.",
+        "bullets": [
+          "Adjust seat, mirrors, and controls before moving.",
+          "Secure loose items."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Adjust seat, mirrors, and controls before moving.",
+        "bullets": [
+          "Secure loose items.",
+          "Check fuel/charge and important warning indicators."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Prepare before entering traffic.",
+        "bullets": [
+          "Prepare before entering traffic.",
+          "A stable driving position improves control."
+        ]
+      }
+    ],
+    "key_points": [
+      "Adjust seat, mirrors, and controls before moving.",
+      "Secure loose items.",
+      "Check fuel/charge and important warning indicators."
+    ],
+    "exam_tips": [
+      "Prepare before entering traffic.",
+      "A stable driving position improves control."
+    ],
+    "tags": [
+      "driver safety",
+      "preparation",
+      "trip and vehicle preparation"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "stop",
+    "group": "Voorrang",
+    "name": "STOP",
+    "meaning": "Volledig stoppen en pas doorgaan wanneer het veilig is.",
+    "shape": "octagon",
+    "symbol": "STOP",
+    "memory_tip": "Achtkant = STOP."
+  },
+  {
+    "id": "yield",
+    "group": "Voorrang",
+    "name": "Voorrang verlenen",
+    "meaning": "Geef voorrang aan verkeer dat volgens de regeling voorrang heeft.",
+    "shape": "yield",
+    "symbol": "",
+    "memory_tip": "Omgekeerde driehoek = voorrang verlenen."
+  },
+  {
+    "id": "no_entry",
+    "group": "Verbod",
+    "name": "Gesloten in deze richting",
+    "meaning": "Je mag deze weg vanuit deze richting niet inrijden.",
+    "shape": "no_entry",
+    "symbol": "",
+    "memory_tip": "Rode cirkel met witte balk = niet inrijden."
+  },
+  {
+    "id": "speed30",
+    "group": "Snelheid",
+    "name": "Maximumsnelheid 30",
+    "meaning": "De aangegeven maximumsnelheid is 30 km/u waar het bord geldt.",
+    "shape": "speed",
+    "symbol": "30",
+    "memory_tip": "Rode ring + getal = maximum."
+  },
+  {
+    "id": "speed50",
+    "group": "Snelheid",
+    "name": "Maximumsnelheid 50",
+    "meaning": "De aangegeven maximumsnelheid is 50 km/u waar het bord geldt.",
+    "shape": "speed",
+    "symbol": "50",
+    "memory_tip": "Rode ring + getal = maximum."
+  },
+  {
+    "id": "no_parking",
+    "group": "Parkeren",
+    "name": "Parkeren verboden",
+    "meaning": "Parkeren is verboden waar dit bord geldt.",
+    "shape": "no_parking",
+    "symbol": "",
+    "memory_tip": "Blauw/rood met één schuine streep = parkeerverbod."
+  },
+  {
+    "id": "no_stop",
+    "group": "Parkeren",
+    "name": "Stilstaan verboden",
+    "meaning": "Stilstaan en parkeren zijn verboden waar dit bord geldt.",
+    "shape": "no_stop",
+    "symbol": "",
+    "memory_tip": "Kruis = strenger dan alleen parkeerverbod."
+  },
+  {
+    "id": "mandatory_right",
+    "group": "Gebod",
+    "name": "Verplichte rijrichting rechts",
+    "meaning": "Volg de aangegeven rijrichting.",
+    "shape": "mandatory",
+    "symbol": "→",
+    "memory_tip": "Blauwe cirkel = gebod."
+  },
+  {
+    "id": "warning",
+    "group": "Gevaar",
+    "name": "Waarschuwing",
+    "meaning": "Waarschuwt voor een gevaarlijke situatie die extra aandacht vraagt.",
+    "shape": "warning",
+    "symbol": "!",
+    "memory_tip": "Driehoek = opletten."
+  },
+  {
+    "id": "info",
+    "group": "Informatie",
+    "name": "Informatiebord",
+    "meaning": "Geeft informatie over de weg of voorziening.",
+    "shape": "info",
+    "symbol": "i",
+    "memory_tip": "Blauw rechthoekig bord geeft vaak informatie."
+  }
+]

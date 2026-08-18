@@ -1,0 +1,83 @@
+[
+  {
+    "id": "stop",
+    "group": "Regulatory",
+    "name": "STOP",
+    "meaning": "Come to a complete stop before proceeding when safe.",
+    "shape": "octagon",
+    "symbol": "STOP",
+    "memory_tip": "Octagon = STOP."
+  },
+  {
+    "id": "yield",
+    "group": "Regulatory",
+    "name": "YIELD",
+    "meaning": "Slow and yield to traffic or pedestrians who have the right-of-way.",
+    "shape": "yield",
+    "symbol": "",
+    "memory_tip": "Downward triangle = YIELD."
+  },
+  {
+    "id": "no_entry",
+    "group": "Regulatory",
+    "name": "DO NOT ENTER",
+    "meaning": "Do not enter the roadway from this direction.",
+    "shape": "no_entry",
+    "symbol": "",
+    "memory_tip": "Red/white = entry prohibited."
+  },
+  {
+    "id": "speed25",
+    "group": "Speed",
+    "name": "Speed Limit 25",
+    "meaning": "The posted speed limit is 25 mph where the sign applies.",
+    "shape": "speed",
+    "symbol": "25",
+    "memory_tip": "Number sign = posted limit."
+  },
+  {
+    "id": "speed55",
+    "group": "Speed",
+    "name": "Speed Limit 55",
+    "meaning": "The posted speed limit is 55 mph where the sign applies.",
+    "shape": "speed",
+    "symbol": "55",
+    "memory_tip": "Number sign = posted limit."
+  },
+  {
+    "id": "no_parking",
+    "group": "Parking",
+    "name": "No Parking",
+    "meaning": "Parking is prohibited where the sign applies.",
+    "shape": "prohibition",
+    "symbol": "P",
+    "memory_tip": "Read nearby time or zone restrictions."
+  },
+  {
+    "id": "warning",
+    "group": "Warning",
+    "name": "Warning",
+    "meaning": "Alerts you to a road condition or hazard ahead.",
+    "shape": "warning",
+    "symbol": "!",
+    "memory_tip": "Warning signs mean prepare early."
+  },
+  {
+    "id": "mandatory_right",
+    "group": "Regulatory",
+    "name": "Right Turn Only",
+    "meaning": "Traffic in the lane must follow the indicated direction.",
+    "shape": "mandatory",
+    "symbol": "→",
+    "memory_tip": "Follow lane control signs."
+  },
+  {
+    "id": "info",
+    "group": "Guide",
+    "name": "Information",
+    "meaning": "Provides route, service, or road information.",
+    "shape": "info",
+    "symbol": "i",
+    "memory_tip": "Guide signs help with navigation."
+  }
+]

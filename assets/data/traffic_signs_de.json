@@ -1,0 +1,92 @@
+[
+  {
+    "id": "stop",
+    "group": "Vorfahrt",
+    "name": "STOP",
+    "meaning": "Vollständig anhalten und erst weiterfahren, wenn es sicher ist.",
+    "shape": "octagon",
+    "symbol": "STOP",
+    "memory_tip": "Achteck = STOP."
+  },
+  {
+    "id": "yield",
+    "group": "Vorfahrt",
+    "name": "Vorfahrt gewähren",
+    "meaning": "Dem bevorrechtigten Verkehr Vorfahrt gewähren.",
+    "shape": "yield",
+    "symbol": "",
+    "memory_tip": "Umgedrehtes Dreieck = Vorfahrt gewähren."
+  },
+  {
+    "id": "no_entry",
+    "group": "Verbot",
+    "name": "Einfahrt verboten",
+    "meaning": "Diese Fahrtrichtung darf nicht benutzt werden.",
+    "shape": "no_entry",
+    "symbol": "",
+    "memory_tip": "Roter Kreis mit weißem Balken = Einfahrt verboten."
+  },
+  {
+    "id": "speed30",
+    "group": "Geschwindigkeit",
+    "name": "Zulässige Höchstgeschwindigkeit 30",
+    "meaning": "Die angegebene Höchstgeschwindigkeit beträgt 30 km/h.",
+    "shape": "speed",
+    "symbol": "30",
+    "memory_tip": "Roter Ring + Zahl = Höchstgeschwindigkeit."
+  },
+  {
+    "id": "speed50",
+    "group": "Geschwindigkeit",
+    "name": "Zulässige Höchstgeschwindigkeit 50",
+    "meaning": "Die angegebene Höchstgeschwindigkeit beträgt 50 km/h.",
+    "shape": "speed",
+    "symbol": "50",
+    "memory_tip": "Roter Ring + Zahl = Höchstgeschwindigkeit."
+  },
+  {
+    "id": "no_parking",
+    "group": "Halten/Parken",
+    "name": "Eingeschränktes Haltverbot",
+    "meaning": "Parken ist im Geltungsbereich nicht erlaubt.",
+    "shape": "no_parking",
+    "symbol": "",
+    "memory_tip": "Blau/rot mit einem Strich = eingeschränktes Haltverbot."
+  },
+  {
+    "id": "no_stop",
+    "group": "Halten/Parken",
+    "name": "Absolutes Haltverbot",
+    "meaning": "Halten ist im Geltungsbereich nicht erlaubt.",
+    "shape": "no_stop",
+    "symbol": "",
+    "memory_tip": "Kreuz = absolutes Haltverbot."
+  },
+  {
+    "id": "mandatory_right",
+    "group": "Gebot",
+    "name": "Vorgeschriebene Fahrtrichtung rechts",
+    "meaning": "Der vorgeschriebenen Richtung folgen.",
+    "shape": "mandatory",
+    "symbol": "→",
+    "memory_tip": "Blauer Kreis = Gebot."
+  },
+  {
+    "id": "warning",
+    "group": "Gefahr",
+    "name": "Gefahrstelle",
+    "meaning": "Warnt vor einer Gefahr und verlangt erhöhte Aufmerksamkeit.",
+    "shape": "warning",
+    "symbol": "!",
+    "memory_tip": "Dreieck = Gefahrhinweis."
+  },
+  {
+    "id": "info",
+    "group": "Richtzeichen",
+    "name": "Hinweis",
+    "meaning": "Gibt Informationen über Straße oder Einrichtung.",
+    "shape": "info",
+    "symbol": "i",
+    "memory_tip": "Blaue Tafeln geben häufig Hinweise."
+  }
+]

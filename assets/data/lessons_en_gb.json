@@ -1,0 +1,2550 @@
+[
+  {
+    "id": "gb_001",
+    "category": "Alertness",
+    "module": "Observation",
+    "order": 1,
+    "title": "Scanning the road ahead",
+    "minutes": 11,
+    "summary": "Safe driving depends on seeing developing situations early rather than reacting at the last moment.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Safe driving depends on seeing developing situations early rather than reacting at the last moment.",
+        "bullets": [
+          "Look well ahead and keep your eyes moving.",
+          "Use mirrors regularly and before changing speed or direction."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Look well ahead and keep your eyes moving.",
+        "bullets": [
+          "Use mirrors regularly and before changing speed or direction.",
+          "Check blind spots before moving sideways."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Early observation creates more time to decide.",
+        "bullets": [
+          "Early observation creates more time to decide.",
+          "Do not focus only on the vehicle directly ahead."
+        ]
+      }
+    ],
+    "key_points": [
+      "Look well ahead and keep your eyes moving.",
+      "Use mirrors regularly and before changing speed or direction.",
+      "Check blind spots before moving sideways."
+    ],
+    "exam_tips": [
+      "Early observation creates more time to decide.",
+      "Do not focus only on the vehicle directly ahead."
+    ],
+    "tags": [
+      "alertness",
+      "observation",
+      "scanning the road ahead"
+    ]
+  },
+  {
+    "id": "gb_002",
+    "category": "Alertness",
+    "module": "Distraction",
+    "order": 2,
+    "title": "Phones, controls and distraction",
+    "minutes": 12,
+    "summary": "Any task that takes your eyes, hands or attention away from driving can increase risk.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Any task that takes your eyes, hands or attention away from driving can increase risk.",
+        "bullets": [
+          "Set navigation and controls before moving when possible.",
+          "Stop somewhere safe before doing a task that needs concentration."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Set navigation and controls before moving when possible.",
+        "bullets": [
+          "Stop somewhere safe before doing a task that needs concentration.",
+          "Hands-free use can still create mental distraction."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "A few seconds of distraction can hide a developing hazard.",
+        "bullets": [
+          "A few seconds of distraction can hide a developing hazard.",
+          "Driving gets priority over messages and controls."
+        ]
+      }
+    ],
+    "key_points": [
+      "Set navigation and controls before moving when possible.",
+      "Stop somewhere safe before doing a task that needs concentration.",
+      "Hands-free use can still create mental distraction."
+    ],
+    "exam_tips": [
+      "A few seconds of distraction can hide a developing hazard.",
+      "Driving gets priority over messages and controls."
+    ],
+    "tags": [
+      "alertness",
+      "distraction",
+      "phones, controls and distraction"
+    ]
+  },
+  {
+    "id": "gb_003",
+    "category": "Alertness",
+    "module": "Fatigue",
+    "order": 3,
+    "title": "Tiredness and concentration",
+    "minutes": 13,
+    "summary": "Fatigue reduces attention, slows reactions and can lead to microsleep.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Fatigue reduces attention, slows reactions and can lead to microsleep.",
+        "bullets": [
+          "Plan breaks on long journeys.",
+          "Stop and rest if you feel sleepy."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Plan breaks on long journeys.",
+        "bullets": [
+          "Stop and rest if you feel sleepy.",
+          "Do not rely on loud music or fresh air as a substitute for sleep."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Sleepiness is a warning, not something to push through.",
+        "bullets": [
+          "Sleepiness is a warning, not something to push through.",
+          "Real rest is the dependable response."
+        ]
+      }
+    ],
+    "key_points": [
+      "Plan breaks on long journeys.",
+      "Stop and rest if you feel sleepy.",
+      "Do not rely on loud music or fresh air as a substitute for sleep."
+    ],
+    "exam_tips": [
+      "Sleepiness is a warning, not something to push through.",
+      "Real rest is the dependable response."
+    ],
+    "tags": [
+      "alertness",
+      "fatigue",
+      "tiredness and concentration"
+    ]
+  },
+  {
+    "id": "gb_004",
+    "category": "Alertness",
+    "module": "Mirrors",
+    "order": 4,
+    "title": "Mirror use and blind spots",
+    "minutes": 14,
+    "summary": "Mirrors provide important information but they do not show every area around a vehicle.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Mirrors provide important information but they do not show every area around a vehicle.",
+        "bullets": [
+          "Check mirrors before slowing, turning or changing lane.",
+          "Use a direct blind-spot check when needed."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Check mirrors before slowing, turning or changing lane.",
+        "bullets": [
+          "Use a direct blind-spot check when needed.",
+          "Keep mirrors correctly adjusted and clean."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Mirror-signal-manoeuvre decisions should be deliberate.",
+        "bullets": [
+          "Mirror-signal-manoeuvre decisions should be deliberate.",
+          "A shoulder check can cover areas mirrors miss."
+        ]
+      }
+    ],
+    "key_points": [
+      "Check mirrors before slowing, turning or changing lane.",
+      "Use a direct blind-spot check when needed.",
+      "Keep mirrors correctly adjusted and clean."
+    ],
+    "exam_tips": [
+      "Mirror-signal-manoeuvre decisions should be deliberate.",
+      "A shoulder check can cover areas mirrors miss."
+    ],
+    "tags": [
+      "alertness",
+      "mirrors",
+      "mirror use and blind spots"
+    ]
+  },
+  {
+    "id": "gb_005",
+    "category": "Attitude",
+    "module": "Patience",
+    "order": 1,
+    "title": "Patience and courtesy",
+    "minutes": 15,
+    "summary": "Calm, predictable driving reduces conflict and gives everyone more time to react.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Calm, predictable driving reduces conflict and gives everyone more time to react.",
+        "bullets": [
+          "Do not retaliate when another driver makes a mistake.",
+          "Give vulnerable road users extra time and space."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Do not retaliate when another driver makes a mistake.",
+        "bullets": [
+          "Give vulnerable road users extra time and space.",
+          "Avoid using the horn to express anger."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Courtesy is not the same as giving unsafe instructions.",
+        "bullets": [
+          "Courtesy is not the same as giving unsafe instructions.",
+          "Your aim is to reduce risk, not win an argument."
+        ]
+      }
+    ],
+    "key_points": [
+      "Do not retaliate when another driver makes a mistake.",
+      "Give vulnerable road users extra time and space.",
+      "Avoid using the horn to express anger."
+    ],
+    "exam_tips": [
+      "Courtesy is not the same as giving unsafe instructions.",
+      "Your aim is to reduce risk, not win an argument."
+    ],
+    "tags": [
+      "attitude",
+      "patience",
+      "patience and courtesy"
+    ]
+  },
+  {
+    "id": "gb_006",
+    "category": "Attitude",
+    "module": "Following",
+    "order": 2,
+    "title": "Tailgating and pressure",
+    "minutes": 10,
+    "summary": "Driving too close reduces the time available to react and can intimidate other road users.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Driving too close reduces the time available to react and can intimidate other road users.",
+        "bullets": [
+          "Keep a safe following distance.",
+          "Increase the gap in poor conditions."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Keep a safe following distance.",
+        "bullets": [
+          "Increase the gap in poor conditions.",
+          "If someone follows too closely, create more space ahead rather than brake-checking."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Space is a safety buffer.",
+        "bullets": [
+          "Space is a safety buffer.",
+          "Do not copy aggressive behaviour."
+        ]
+      }
+    ],
+    "key_points": [
+      "Keep a safe following distance.",
+      "Increase the gap in poor conditions.",
+      "If someone follows too closely, create more space ahead rather than brake-checking."
+    ],
+    "exam_tips": [
+      "Space is a safety buffer.",
+      "Do not copy aggressive behaviour."
+    ],
+    "tags": [
+      "attitude",
+      "following",
+      "tailgating and pressure"
+    ]
+  },
+  {
+    "id": "gb_007",
+    "category": "Attitude",
+    "module": "Road rage",
+    "order": 3,
+    "title": "Aggressive driving",
+    "minutes": 11,
+    "summary": "Aggression narrows attention and can turn a minor event into a serious danger.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Aggression narrows attention and can turn a minor event into a serious danger.",
+        "bullets": [
+          "Avoid eye-contact confrontations.",
+          "Let aggressive drivers move away when safe."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Avoid eye-contact confrontations.",
+        "bullets": [
+          "Let aggressive drivers move away when safe.",
+          "Seek help if another road user threatens your safety."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Do not chase, block or challenge another driver.",
+        "bullets": [
+          "Do not chase, block or challenge another driver.",
+          "De-escalation is the safest objective."
+        ]
+      }
+    ],
+    "key_points": [
+      "Avoid eye-contact confrontations.",
+      "Let aggressive drivers move away when safe.",
+      "Seek help if another road user threatens your safety."
+    ],
+    "exam_tips": [
+      "Do not chase, block or challenge another driver.",
+      "De-escalation is the safest objective."
+    ],
+    "tags": [
+      "attitude",
+      "road rage",
+      "aggressive driving"
+    ]
+  },
+  {
+    "id": "gb_008",
+    "category": "Attitude",
+    "module": "Responsibility",
+    "order": 4,
+    "title": "Responsibility for safe decisions",
+    "minutes": 12,
+    "summary": "Having priority or a green signal does not remove the duty to avoid a collision where possible.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Having priority or a green signal does not remove the duty to avoid a collision where possible.",
+        "bullets": [
+          "Check that a path is actually clear before proceeding.",
+          "Expect mistakes from other road users."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Check that a path is actually clear before proceeding.",
+        "bullets": [
+          "Expect mistakes from other road users.",
+          "Choose the safer option when a situation is uncertain."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Legal priority is not a shield against danger.",
+        "bullets": [
+          "Legal priority is not a shield against danger.",
+          "Safety still requires observation."
+        ]
+      }
+    ],
+    "key_points": [
+      "Check that a path is actually clear before proceeding.",
+      "Expect mistakes from other road users.",
+      "Choose the safer option when a situation is uncertain."
+    ],
+    "exam_tips": [
+      "Legal priority is not a shield against danger.",
+      "Safety still requires observation."
+    ],
+    "tags": [
+      "attitude",
+      "responsibility",
+      "responsibility for safe decisions"
+    ]
+  },
+  {
+    "id": "gb_009",
+    "category": "Safety and your vehicle",
+    "module": "Tyres",
+    "order": 1,
+    "title": "Tyres and road grip",
+    "minutes": 13,
+    "summary": "Tyres are the vehicle’s contact with the road and strongly affect steering and braking.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Tyres are the vehicle’s contact with the road and strongly affect steering and braking.",
+        "bullets": [
+          "Check condition, pressure and visible damage.",
+          "Replace damaged or unsafe tyres promptly."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Check condition, pressure and visible damage.",
+        "bullets": [
+          "Replace damaged or unsafe tyres promptly.",
+          "Remember that wet roads reduce available grip."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Good tyres cannot cancel unsafe speed.",
+        "bullets": [
+          "Good tyres cannot cancel unsafe speed.",
+          "Grip, speed and stopping distance are connected."
+        ]
+      }
+    ],
+    "key_points": [
+      "Check condition, pressure and visible damage.",
+      "Replace damaged or unsafe tyres promptly.",
+      "Remember that wet roads reduce available grip."
+    ],
+    "exam_tips": [
+      "Good tyres cannot cancel unsafe speed.",
+      "Grip, speed and stopping distance are connected."
+    ],
+    "tags": [
+      "safety and your vehicle",
+      "tyres",
+      "tyres and road grip"
+    ]
+  },
+  {
+    "id": "gb_010",
+    "category": "Safety and your vehicle",
+    "module": "Brakes",
+    "order": 2,
+    "title": "Brakes and warning signs",
+    "minutes": 14,
+    "summary": "Brakes must respond predictably and warning signs should be investigated rather than ignored.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Brakes must respond predictably and warning signs should be investigated rather than ignored.",
+        "bullets": [
+          "Seek attention for unusual noises or changes in braking feel.",
+          "Keep enough space so normal braking is possible."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Seek attention for unusual noises or changes in braking feel.",
+        "bullets": [
+          "Keep enough space so normal braking is possible.",
+          "Use controlled braking rather than panic inputs where possible."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "A warning light is information that requires action.",
+        "bullets": [
+          "A warning light is information that requires action.",
+          "Stopping distance is affected by both driver reaction and vehicle braking."
+        ]
+      }
+    ],
+    "key_points": [
+      "Seek attention for unusual noises or changes in braking feel.",
+      "Keep enough space so normal braking is possible.",
+      "Use controlled braking rather than panic inputs where possible."
+    ],
+    "exam_tips": [
+      "A warning light is information that requires action.",
+      "Stopping distance is affected by both driver reaction and vehicle braking."
+    ],
+    "tags": [
+      "safety and your vehicle",
+      "brakes",
+      "brakes and warning signs"
+    ]
+  },
+  {
+    "id": "gb_011",
+    "category": "Safety and your vehicle",
+    "module": "Lights",
+    "order": 3,
+    "title": "Lights and visibility",
+    "minutes": 15,
+    "summary": "Vehicle lights help you see and help other road users see you.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Vehicle lights help you see and help other road users see you.",
+        "bullets": [
+          "Use the correct lights for visibility conditions.",
+          "Keep lenses clean and working."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Use the correct lights for visibility conditions.",
+        "bullets": [
+          "Keep lenses clean and working.",
+          "Avoid dazzling other road users."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Being visible can be as important as seeing.",
+        "bullets": [
+          "Being visible can be as important as seeing.",
+          "Select lights for the conditions, not just the time of day."
+        ]
+      }
+    ],
+    "key_points": [
+      "Use the correct lights for visibility conditions.",
+      "Keep lenses clean and working.",
+      "Avoid dazzling other road users."
+    ],
+    "exam_tips": [
+      "Being visible can be as important as seeing.",
+      "Select lights for the conditions, not just the time of day."
+    ],
+    "tags": [
+      "safety and your vehicle",
+      "lights",
+      "lights and visibility"
+    ]
+  },
+  {
+    "id": "gb_012",
+    "category": "Safety and your vehicle",
+    "module": "Loads",
+    "order": 4,
+    "title": "Passengers, loads and vehicle stability",
+    "minutes": 10,
+    "summary": "Unsecured loads and poor weight distribution can affect control and injure occupants.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Unsecured loads and poor weight distribution can affect control and injure occupants.",
+        "bullets": [
+          "Secure loose items before moving.",
+          "Do not obstruct the driver’s view or controls."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Secure loose items before moving.",
+        "bullets": [
+          "Do not obstruct the driver’s view or controls.",
+          "Allow for changed handling when carrying a heavy load."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "A load should stay controlled under braking.",
+        "bullets": [
+          "A load should stay controlled under braking.",
+          "Preparation before departure prevents distraction later."
+        ]
+      }
+    ],
+    "key_points": [
+      "Secure loose items before moving.",
+      "Do not obstruct the driver’s view or controls.",
+      "Allow for changed handling when carrying a heavy load."
+    ],
+    "exam_tips": [
+      "A load should stay controlled under braking.",
+      "Preparation before departure prevents distraction later."
+    ],
+    "tags": [
+      "safety and your vehicle",
+      "loads",
+      "passengers, loads and vehicle stability"
+    ]
+  },
+  {
+    "id": "gb_013",
+    "category": "Safety margins",
+    "module": "Distance",
+    "order": 1,
+    "title": "Following distance",
+    "minutes": 11,
+    "summary": "More space ahead gives you more time to respond to changes in traffic.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "More space ahead gives you more time to respond to changes in traffic.",
+        "bullets": [
+          "Keep a larger gap in rain, darkness or poor visibility.",
+          "Avoid following large vehicles so closely that they block your view."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Keep a larger gap in rain, darkness or poor visibility.",
+        "bullets": [
+          "Avoid following large vehicles so closely that they block your view.",
+          "Match your gap to speed and conditions."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Higher speed needs more space.",
+        "bullets": [
+          "Higher speed needs more space.",
+          "A safe gap gives you options."
+        ]
+      }
+    ],
+    "key_points": [
+      "Keep a larger gap in rain, darkness or poor visibility.",
+      "Avoid following large vehicles so closely that they block your view.",
+      "Match your gap to speed and conditions."
+    ],
+    "exam_tips": [
+      "Higher speed needs more space.",
+      "A safe gap gives you options."
+    ],
+    "tags": [
+      "safety margins",
+      "distance",
+      "following distance"
+    ]
+  },
+  {
+    "id": "gb_014",
+    "category": "Safety margins",
+    "module": "Stopping",
+    "order": 2,
+    "title": "Thinking and braking distance",
+    "minutes": 12,
+    "summary": "Total stopping distance includes the distance travelled while the driver reacts and while the vehicle brakes.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Total stopping distance includes the distance travelled while the driver reacts and while the vehicle brakes.",
+        "bullets": [
+          "Fatigue and distraction can increase reaction distance.",
+          "Wet or icy roads can increase braking distance."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Fatigue and distraction can increase reaction distance.",
+        "bullets": [
+          "Wet or icy roads can increase braking distance.",
+          "Higher speed can greatly increase stopping distance."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Think about driver and vehicle factors together.",
+        "bullets": [
+          "Think about driver and vehicle factors together.",
+          "Do not assume the posted limit is always a safe speed."
+        ]
+      }
+    ],
+    "key_points": [
+      "Fatigue and distraction can increase reaction distance.",
+      "Wet or icy roads can increase braking distance.",
+      "Higher speed can greatly increase stopping distance."
+    ],
+    "exam_tips": [
+      "Think about driver and vehicle factors together.",
+      "Do not assume the posted limit is always a safe speed."
+    ],
+    "tags": [
+      "safety margins",
+      "stopping",
+      "thinking and braking distance"
+    ]
+  },
+  {
+    "id": "gb_015",
+    "category": "Safety margins",
+    "module": "Weather",
+    "order": 3,
+    "title": "Rain, ice, fog and wind",
+    "minutes": 13,
+    "summary": "Poor weather changes grip, visibility and the amount of space needed to drive safely.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Poor weather changes grip, visibility and the amount of space needed to drive safely.",
+        "bullets": [
+          "Slow down when you cannot see far ahead.",
+          "Increase following distance when grip is reduced."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Slow down when you cannot see far ahead.",
+        "bullets": [
+          "Increase following distance when grip is reduced.",
+          "Be prepared for sudden side winds in exposed places."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Worse conditions mean larger safety margins.",
+        "bullets": [
+          "Worse conditions mean larger safety margins.",
+          "Visibility and grip may deteriorate at the same time."
+        ]
+      }
+    ],
+    "key_points": [
+      "Slow down when you cannot see far ahead.",
+      "Increase following distance when grip is reduced.",
+      "Be prepared for sudden side winds in exposed places."
+    ],
+    "exam_tips": [
+      "Worse conditions mean larger safety margins.",
+      "Visibility and grip may deteriorate at the same time."
+    ],
+    "tags": [
+      "safety margins",
+      "weather",
+      "rain, ice, fog and wind"
+    ]
+  },
+  {
+    "id": "gb_016",
+    "category": "Safety margins",
+    "module": "Night",
+    "order": 4,
+    "title": "Driving at night",
+    "minutes": 14,
+    "summary": "Darkness reduces visual detail and can make speed and distance harder to judge.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Darkness reduces visual detail and can make speed and distance harder to judge.",
+        "bullets": [
+          "Drive at a speed that lets you stop within the distance you can see to be clear.",
+          "Keep windows and lights clean."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Drive at a speed that lets you stop within the distance you can see to be clear.",
+        "bullets": [
+          "Keep windows and lights clean.",
+          "Avoid staring at bright oncoming lights."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Do not drive faster than your available view allows.",
+        "bullets": [
+          "Do not drive faster than your available view allows.",
+          "Night driving needs extra observation."
+        ]
+      }
+    ],
+    "key_points": [
+      "Drive at a speed that lets you stop within the distance you can see to be clear.",
+      "Keep windows and lights clean.",
+      "Avoid staring at bright oncoming lights."
+    ],
+    "exam_tips": [
+      "Do not drive faster than your available view allows.",
+      "Night driving needs extra observation."
+    ],
+    "tags": [
+      "safety margins",
+      "night",
+      "driving at night"
+    ]
+  },
+  {
+    "id": "gb_017",
+    "category": "Hazard awareness",
+    "module": "Prediction",
+    "order": 1,
+    "title": "Developing hazards",
+    "minutes": 15,
+    "summary": "A hazard becomes more important when it starts to require a change of speed, position or direction.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "A hazard becomes more important when it starts to require a change of speed, position or direction.",
+        "bullets": [
+          "Look for clues that a situation may change.",
+          "Ease off early when uncertainty increases."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Look for clues that a situation may change.",
+        "bullets": [
+          "Ease off early when uncertainty increases.",
+          "Keep scanning around parked vehicles and junctions."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Predict what could happen next.",
+        "bullets": [
+          "Predict what could happen next.",
+          "Early response is usually smoother and safer."
+        ]
+      }
+    ],
+    "key_points": [
+      "Look for clues that a situation may change.",
+      "Ease off early when uncertainty increases.",
+      "Keep scanning around parked vehicles and junctions."
+    ],
+    "exam_tips": [
+      "Predict what could happen next.",
+      "Early response is usually smoother and safer."
+    ],
+    "tags": [
+      "hazard awareness",
+      "prediction",
+      "developing hazards"
+    ]
+  },
+  {
+    "id": "gb_018",
+    "category": "Hazard awareness",
+    "module": "Parked vehicles",
+    "order": 2,
+    "title": "Hidden hazards near parked vehicles",
+    "minutes": 10,
+    "summary": "Parked vehicles can hide pedestrians, cyclists and vehicles emerging from side roads.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Parked vehicles can hide pedestrians, cyclists and vehicles emerging from side roads.",
+        "bullets": [
+          "Look underneath and around vehicles for movement clues.",
+          "Reduce speed where visibility is restricted."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Look underneath and around vehicles for movement clues.",
+        "bullets": [
+          "Reduce speed where visibility is restricted.",
+          "Leave enough side clearance when passing."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "A gap between parked vehicles may hide a pedestrian.",
+        "bullets": [
+          "A gap between parked vehicles may hide a pedestrian.",
+          "Restricted view should reduce speed."
+        ]
+      }
+    ],
+    "key_points": [
+      "Look underneath and around vehicles for movement clues.",
+      "Reduce speed where visibility is restricted.",
+      "Leave enough side clearance when passing."
+    ],
+    "exam_tips": [
+      "A gap between parked vehicles may hide a pedestrian.",
+      "Restricted view should reduce speed."
+    ],
+    "tags": [
+      "hazard awareness",
+      "parked vehicles",
+      "hidden hazards near parked vehicles"
+    ]
+  },
+  {
+    "id": "gb_019",
+    "category": "Hazard awareness",
+    "module": "Children",
+    "order": 3,
+    "title": "Children near the road",
+    "minutes": 11,
+    "summary": "Children can be unpredictable and may not judge traffic speed or distance accurately.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Children can be unpredictable and may not judge traffic speed or distance accurately.",
+        "bullets": [
+          "Slow down near schools and play areas.",
+          "Expect sudden movement from between parked vehicles."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Slow down near schools and play areas.",
+        "bullets": [
+          "Expect sudden movement from between parked vehicles.",
+          "Be ready to stop when a child is close to the carriageway."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Children need a larger safety margin.",
+        "bullets": [
+          "Children need a larger safety margin.",
+          "Do not assume a child has seen you."
+        ]
+      }
+    ],
+    "key_points": [
+      "Slow down near schools and play areas.",
+      "Expect sudden movement from between parked vehicles.",
+      "Be ready to stop when a child is close to the carriageway."
+    ],
+    "exam_tips": [
+      "Children need a larger safety margin.",
+      "Do not assume a child has seen you."
+    ],
+    "tags": [
+      "hazard awareness",
+      "children",
+      "children near the road"
+    ]
+  },
+  {
+    "id": "gb_020",
+    "category": "Hazard awareness",
+    "module": "Hazard perception",
+    "order": 4,
+    "title": "Hazard perception technique",
+    "minutes": 12,
+    "summary": "Hazard-perception practice is about recognising when a potential hazard begins to develop.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Hazard-perception practice is about recognising when a potential hazard begins to develop.",
+        "bullets": [
+          "Watch the whole scene rather than one object.",
+          "Respond when the situation starts to require action."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Watch the whole scene rather than one object.",
+        "bullets": [
+          "Respond when the situation starts to require action.",
+          "Avoid random or patterned clicking in real hazard tests."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "A developing hazard changes what the driver needs to do.",
+        "bullets": [
+          "A developing hazard changes what the driver needs to do.",
+          "Observation before the hazard develops helps scoring and safety."
+        ]
+      }
+    ],
+    "key_points": [
+      "Watch the whole scene rather than one object.",
+      "Respond when the situation starts to require action.",
+      "Avoid random or patterned clicking in real hazard tests."
+    ],
+    "exam_tips": [
+      "A developing hazard changes what the driver needs to do.",
+      "Observation before the hazard develops helps scoring and safety."
+    ],
+    "tags": [
+      "hazard awareness",
+      "hazard perception",
+      "hazard perception technique"
+    ]
+  },
+  {
+    "id": "gb_021",
+    "category": "Vulnerable road users",
+    "module": "Pedestrians",
+    "order": 1,
+    "title": "Pedestrians and crossings",
+    "minutes": 13,
+    "summary": "Pedestrians have little protection and need special care at crossings, junctions and in poor visibility.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Pedestrians have little protection and need special care at crossings, junctions and in poor visibility.",
+        "bullets": [
+          "Approach crossings ready to slow or stop.",
+          "Check pavements before turning."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Approach crossings ready to slow or stop.",
+        "bullets": [
+          "Check pavements before turning.",
+          "Give extra time to children, older people and disabled pedestrians."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Look beyond the carriageway.",
+        "bullets": [
+          "Look beyond the carriageway.",
+          "Never assume a pedestrian will move exactly as expected."
+        ]
+      }
+    ],
+    "key_points": [
+      "Approach crossings ready to slow or stop.",
+      "Check pavements before turning.",
+      "Give extra time to children, older people and disabled pedestrians."
+    ],
+    "exam_tips": [
+      "Look beyond the carriageway.",
+      "Never assume a pedestrian will move exactly as expected."
+    ],
+    "tags": [
+      "vulnerable road users",
+      "pedestrians",
+      "pedestrians and crossings"
+    ]
+  },
+  {
+    "id": "gb_022",
+    "category": "Vulnerable road users",
+    "module": "Cyclists",
+    "order": 2,
+    "title": "Cyclists and cycle lanes",
+    "minutes": 14,
+    "summary": "Cyclists can be affected by wind, surface defects and close passing vehicles.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Cyclists can be affected by wind, surface defects and close passing vehicles.",
+        "bullets": [
+          "Check mirrors and blind spots before turning across a cycle lane.",
+          "Give cyclists generous space when passing."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Check mirrors and blind spots before turning across a cycle lane.",
+        "bullets": [
+          "Give cyclists generous space when passing.",
+          "Expect cyclists at junctions even when they are hard to see."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Look before opening a door.",
+        "bullets": [
+          "Look before opening a door.",
+          "Do not squeeze past where space is limited."
+        ]
+      }
+    ],
+    "key_points": [
+      "Check mirrors and blind spots before turning across a cycle lane.",
+      "Give cyclists generous space when passing.",
+      "Expect cyclists at junctions even when they are hard to see."
+    ],
+    "exam_tips": [
+      "Look before opening a door.",
+      "Do not squeeze past where space is limited."
+    ],
+    "tags": [
+      "vulnerable road users",
+      "cyclists",
+      "cyclists and cycle lanes"
+    ]
+  },
+  {
+    "id": "gb_023",
+    "category": "Vulnerable road users",
+    "module": "Motorcyclists",
+    "order": 3,
+    "title": "Motorcyclists",
+    "minutes": 15,
+    "summary": "Motorcycles are smaller and can be hidden by vehicle pillars or other traffic.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Motorcycles are smaller and can be hidden by vehicle pillars or other traffic.",
+        "bullets": [
+          "Look carefully before turning across a motorcycle’s path.",
+          "Allow a full safe gap when following."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Look carefully before turning across a motorcycle’s path.",
+        "bullets": [
+          "Allow a full safe gap when following.",
+          "Expect motorcycles to be affected by poor surfaces and weather."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Look twice at junctions.",
+        "bullets": [
+          "Look twice at junctions.",
+          "Small size can make distance difficult to judge."
+        ]
+      }
+    ],
+    "key_points": [
+      "Look carefully before turning across a motorcycle’s path.",
+      "Allow a full safe gap when following.",
+      "Expect motorcycles to be affected by poor surfaces and weather."
+    ],
+    "exam_tips": [
+      "Look twice at junctions.",
+      "Small size can make distance difficult to judge."
+    ],
+    "tags": [
+      "vulnerable road users",
+      "motorcyclists",
+      "motorcyclists"
+    ]
+  },
+  {
+    "id": "gb_024",
+    "category": "Vulnerable road users",
+    "module": "Animals",
+    "order": 4,
+    "title": "Horses and animals",
+    "minutes": 10,
+    "summary": "Animals may react unpredictably to noise or sudden movement.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Animals may react unpredictably to noise or sudden movement.",
+        "bullets": [
+          "Slow down and give horses plenty of room.",
+          "Avoid unnecessary horn use near animals."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Slow down and give horses plenty of room.",
+        "bullets": [
+          "Avoid unnecessary horn use near animals.",
+          "Be prepared to stop if an animal becomes unsettled."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Pass wide and slow.",
+        "bullets": [
+          "Pass wide and slow.",
+          "Patience protects both rider and animal."
+        ]
+      }
+    ],
+    "key_points": [
+      "Slow down and give horses plenty of room.",
+      "Avoid unnecessary horn use near animals.",
+      "Be prepared to stop if an animal becomes unsettled."
+    ],
+    "exam_tips": [
+      "Pass wide and slow.",
+      "Patience protects both rider and animal."
+    ],
+    "tags": [
+      "vulnerable road users",
+      "animals",
+      "horses and animals"
+    ]
+  },
+  {
+    "id": "gb_025",
+    "category": "Other types of vehicle",
+    "module": "Large vehicles",
+    "order": 1,
+    "title": "Large vehicles and blind spots",
+    "minutes": 11,
+    "summary": "Lorries and buses need more room to turn and can have large areas that the driver cannot see.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Lorries and buses need more room to turn and can have large areas that the driver cannot see.",
+        "bullets": [
+          "Do not linger alongside a large vehicle.",
+          "Expect wide turns at junctions."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Do not linger alongside a large vehicle.",
+        "bullets": [
+          "Expect wide turns at junctions.",
+          "Avoid cutting in closely after overtaking."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "If you cannot see the driver’s mirrors, the driver may not see you.",
+        "bullets": [
+          "If you cannot see the driver’s mirrors, the driver may not see you.",
+          "Give large vehicles extra room."
+        ]
+      }
+    ],
+    "key_points": [
+      "Do not linger alongside a large vehicle.",
+      "Expect wide turns at junctions.",
+      "Avoid cutting in closely after overtaking."
+    ],
+    "exam_tips": [
+      "If you cannot see the driver’s mirrors, the driver may not see you.",
+      "Give large vehicles extra room."
+    ],
+    "tags": [
+      "other types of vehicle",
+      "large vehicles",
+      "large vehicles and blind spots"
+    ]
+  },
+  {
+    "id": "gb_026",
+    "category": "Other types of vehicle",
+    "module": "Emergency",
+    "order": 2,
+    "title": "Emergency vehicles",
+    "minutes": 12,
+    "summary": "Drivers should make progress for emergency vehicles without creating another danger.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Drivers should make progress for emergency vehicles without creating another danger.",
+        "bullets": [
+          "Check mirrors before changing position.",
+          "Do not enter a dangerous area simply to get out of the way."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Check mirrors before changing position.",
+        "bullets": [
+          "Do not enter a dangerous area simply to get out of the way.",
+          "Keep junctions and access routes clear where possible."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Stay calm and predictable.",
+        "bullets": [
+          "Stay calm and predictable.",
+          "Make space only when it is safe and legal."
+        ]
+      }
+    ],
+    "key_points": [
+      "Check mirrors before changing position.",
+      "Do not enter a dangerous area simply to get out of the way.",
+      "Keep junctions and access routes clear where possible."
+    ],
+    "exam_tips": [
+      "Stay calm and predictable.",
+      "Make space only when it is safe and legal."
+    ],
+    "tags": [
+      "other types of vehicle",
+      "emergency",
+      "emergency vehicles"
+    ]
+  },
+  {
+    "id": "gb_027",
+    "category": "Other types of vehicle",
+    "module": "Trams",
+    "order": 3,
+    "title": "Trams and special road layouts",
+    "minutes": 13,
+    "summary": "Trams cannot steer around obstructions and may use road space differently from ordinary vehicles.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Trams cannot steer around obstructions and may use road space differently from ordinary vehicles.",
+        "bullets": [
+          "Do not stop where you obstruct a tram route.",
+          "Take care near rails, especially when cycling or on a motorcycle."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Do not stop where you obstruct a tram route.",
+        "bullets": [
+          "Take care near rails, especially when cycling or on a motorcycle.",
+          "Follow signs and signals that apply to tram areas."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "A tram cannot swerve around you.",
+        "bullets": [
+          "A tram cannot swerve around you.",
+          "Read special road markings carefully."
+        ]
+      }
+    ],
+    "key_points": [
+      "Do not stop where you obstruct a tram route.",
+      "Take care near rails, especially when cycling or on a motorcycle.",
+      "Follow signs and signals that apply to tram areas."
+    ],
+    "exam_tips": [
+      "A tram cannot swerve around you.",
+      "Read special road markings carefully."
+    ],
+    "tags": [
+      "other types of vehicle",
+      "trams",
+      "trams and special road layouts"
+    ]
+  },
+  {
+    "id": "gb_028",
+    "category": "Other types of vehicle",
+    "module": "Slow vehicles",
+    "order": 4,
+    "title": "Slow-moving and maintenance vehicles",
+    "minutes": 14,
+    "summary": "Slow vehicles can create large speed differences that require early observation and patience.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Slow vehicles can create large speed differences that require early observation and patience.",
+        "bullets": [
+          "Reduce speed early when approaching.",
+          "Overtake only with clear sight and enough room."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Reduce speed early when approaching.",
+        "bullets": [
+          "Overtake only with clear sight and enough room.",
+          "Watch for workers or equipment near the road."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Speed difference can hide risk.",
+        "bullets": [
+          "Speed difference can hide risk.",
+          "Do not rush an overtake."
+        ]
+      }
+    ],
+    "key_points": [
+      "Reduce speed early when approaching.",
+      "Overtake only with clear sight and enough room.",
+      "Watch for workers or equipment near the road."
+    ],
+    "exam_tips": [
+      "Speed difference can hide risk.",
+      "Do not rush an overtake."
+    ],
+    "tags": [
+      "other types of vehicle",
+      "slow vehicles",
+      "slow-moving and maintenance vehicles"
+    ]
+  },
+  {
+    "id": "gb_029",
+    "category": "Vehicle handling",
+    "module": "Steering",
+    "order": 1,
+    "title": "Steering and control",
+    "minutes": 15,
+    "summary": "Smooth steering helps preserve grip and keeps the vehicle stable.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Smooth steering helps preserve grip and keeps the vehicle stable.",
+        "bullets": [
+          "Look where you want the vehicle to go.",
+          "Avoid abrupt steering at speed."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Look where you want the vehicle to go.",
+        "bullets": [
+          "Avoid abrupt steering at speed.",
+          "Adjust speed before sharp bends."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Slow first, then steer smoothly.",
+        "bullets": [
+          "Slow first, then steer smoothly.",
+          "Grip is shared between braking, steering and acceleration."
+        ]
+      }
+    ],
+    "key_points": [
+      "Look where you want the vehicle to go.",
+      "Avoid abrupt steering at speed.",
+      "Adjust speed before sharp bends."
+    ],
+    "exam_tips": [
+      "Slow first, then steer smoothly.",
+      "Grip is shared between braking, steering and acceleration."
+    ],
+    "tags": [
+      "vehicle handling",
+      "steering",
+      "steering and control"
+    ]
+  },
+  {
+    "id": "gb_030",
+    "category": "Vehicle handling",
+    "module": "Braking",
+    "order": 2,
+    "title": "Braking technique",
+    "minutes": 10,
+    "summary": "Progressive braking is usually more stable and predictable than late harsh braking.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Progressive braking is usually more stable and predictable than late harsh braking.",
+        "bullets": [
+          "Plan early so heavy braking is less likely.",
+          "Increase braking distance on slippery surfaces."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Plan early so heavy braking is less likely.",
+        "bullets": [
+          "Increase braking distance on slippery surfaces.",
+          "Keep the vehicle straight and controlled during emergency braking where possible."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Good observation reduces emergency braking.",
+        "bullets": [
+          "Good observation reduces emergency braking.",
+          "Conditions decide how much grip is available."
+        ]
+      }
+    ],
+    "key_points": [
+      "Plan early so heavy braking is less likely.",
+      "Increase braking distance on slippery surfaces.",
+      "Keep the vehicle straight and controlled during emergency braking where possible."
+    ],
+    "exam_tips": [
+      "Good observation reduces emergency braking.",
+      "Conditions decide how much grip is available."
+    ],
+    "tags": [
+      "vehicle handling",
+      "braking",
+      "braking technique"
+    ]
+  },
+  {
+    "id": "gb_031",
+    "category": "Vehicle handling",
+    "module": "Skids",
+    "order": 3,
+    "title": "Loss of grip and skids",
+    "minutes": 11,
+    "summary": "Skids often result from excessive speed or sudden control inputs for the available grip.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Skids often result from excessive speed or sudden control inputs for the available grip.",
+        "bullets": [
+          "Avoid harsh acceleration, braking or steering on slippery roads.",
+          "Reduce speed before reaching the hazard."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Avoid harsh acceleration, braking or steering on slippery roads.",
+        "bullets": [
+          "Reduce speed before reaching the hazard.",
+          "Stay calm and avoid overcorrection."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Prevention is better than recovery.",
+        "bullets": [
+          "Prevention is better than recovery.",
+          "Smooth inputs protect available grip."
+        ]
+      }
+    ],
+    "key_points": [
+      "Avoid harsh acceleration, braking or steering on slippery roads.",
+      "Reduce speed before reaching the hazard.",
+      "Stay calm and avoid overcorrection."
+    ],
+    "exam_tips": [
+      "Prevention is better than recovery.",
+      "Smooth inputs protect available grip."
+    ],
+    "tags": [
+      "vehicle handling",
+      "skids",
+      "loss of grip and skids"
+    ]
+  },
+  {
+    "id": "gb_032",
+    "category": "Vehicle handling",
+    "module": "Bends",
+    "order": 4,
+    "title": "Bends and road position",
+    "minutes": 12,
+    "summary": "A bend reduces the distance you can see and may require a lower speed before entry.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "A bend reduces the distance you can see and may require a lower speed before entry.",
+        "bullets": [
+          "Reduce speed before the bend.",
+          "Stay within your lane and keep a safe position."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Reduce speed before the bend.",
+        "bullets": [
+          "Stay within your lane and keep a safe position.",
+          "Be ready for hazards beyond the visible area."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Do not brake late because you entered too fast.",
+        "bullets": [
+          "Do not brake late because you entered too fast.",
+          "Your speed should match what you can see."
+        ]
+      }
+    ],
+    "key_points": [
+      "Reduce speed before the bend.",
+      "Stay within your lane and keep a safe position.",
+      "Be ready for hazards beyond the visible area."
+    ],
+    "exam_tips": [
+      "Do not brake late because you entered too fast.",
+      "Your speed should match what you can see."
+    ],
+    "tags": [
+      "vehicle handling",
+      "bends",
+      "bends and road position"
+    ]
+  },
+  {
+    "id": "gb_033",
+    "category": "Motorway rules",
+    "module": "Joining",
+    "order": 1,
+    "title": "Joining a motorway",
+    "minutes": 13,
+    "summary": "Joining traffic must build speed appropriately, observe the main carriageway and merge into a safe gap.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Joining traffic must build speed appropriately, observe the main carriageway and merge into a safe gap.",
+        "bullets": [
+          "Use the slip road to prepare for the traffic flow.",
+          "Check mirrors and blind spots before merging."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Use the slip road to prepare for the traffic flow.",
+        "bullets": [
+          "Check mirrors and blind spots before merging.",
+          "Do not force another vehicle to brake sharply."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Plan the gap early.",
+        "bullets": [
+          "Plan the gap early.",
+          "Traffic already on the motorway may not be able to move over."
+        ]
+      }
+    ],
+    "key_points": [
+      "Use the slip road to prepare for the traffic flow.",
+      "Check mirrors and blind spots before merging.",
+      "Do not force another vehicle to brake sharply."
+    ],
+    "exam_tips": [
+      "Plan the gap early.",
+      "Traffic already on the motorway may not be able to move over."
+    ],
+    "tags": [
+      "motorway rules",
+      "joining",
+      "joining a motorway"
+    ]
+  },
+  {
+    "id": "gb_034",
+    "category": "Motorway rules",
+    "module": "Lanes",
+    "order": 2,
+    "title": "Motorway lane discipline",
+    "minutes": 14,
+    "summary": "Good lane discipline keeps overtaking predictable and reduces unnecessary conflicts.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Good lane discipline keeps overtaking predictable and reduces unnecessary conflicts.",
+        "bullets": [
+          "Use the appropriate lane and return when overtaking is complete.",
+          "Check mirrors before changing lane."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Use the appropriate lane and return when overtaking is complete.",
+        "bullets": [
+          "Check mirrors before changing lane.",
+          "Do not remain in an overtaking lane without reason."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Lane changes need observation and a safe gap.",
+        "bullets": [
+          "Lane changes need observation and a safe gap.",
+          "Signs may change lane use."
+        ]
+      }
+    ],
+    "key_points": [
+      "Use the appropriate lane and return when overtaking is complete.",
+      "Check mirrors before changing lane.",
+      "Do not remain in an overtaking lane without reason."
+    ],
+    "exam_tips": [
+      "Lane changes need observation and a safe gap.",
+      "Signs may change lane use."
+    ],
+    "tags": [
+      "motorway rules",
+      "lanes",
+      "motorway lane discipline"
+    ]
+  },
+  {
+    "id": "gb_035",
+    "category": "Motorway rules",
+    "module": "Breakdown",
+    "order": 3,
+    "title": "Breakdowns on high-speed roads",
+    "minutes": 15,
+    "summary": "A breakdown on a motorway or other high-speed road creates serious secondary-collision risk.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "A breakdown on a motorway or other high-speed road creates serious secondary-collision risk.",
+        "bullets": [
+          "Move to the safest available place if possible.",
+          "Use emergency areas or refuge areas correctly when available."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Move to the safest available place if possible.",
+        "bullets": [
+          "Use emergency areas or refuge areas correctly when available.",
+          "Keep away from live traffic and seek assistance."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Personal safety comes before the vehicle.",
+        "bullets": [
+          "Personal safety comes before the vehicle.",
+          "Do not stand in a live lane."
+        ]
+      }
+    ],
+    "key_points": [
+      "Move to the safest available place if possible.",
+      "Use emergency areas or refuge areas correctly when available.",
+      "Keep away from live traffic and seek assistance."
+    ],
+    "exam_tips": [
+      "Personal safety comes before the vehicle.",
+      "Do not stand in a live lane."
+    ],
+    "tags": [
+      "motorway rules",
+      "breakdown",
+      "breakdowns on high-speed roads"
+    ]
+  },
+  {
+    "id": "gb_036",
+    "category": "Motorway rules",
+    "module": "Smart motorway",
+    "order": 4,
+    "title": "Signals and lane closures",
+    "minutes": 10,
+    "summary": "Overhead signals and lane-closure signs communicate hazards and control the use of motorway lanes.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Overhead signals and lane-closure signs communicate hazards and control the use of motorway lanes.",
+        "bullets": [
+          "Obey red-X lane closures.",
+          "Reduce speed when variable limits require it."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Obey red-X lane closures.",
+        "bullets": [
+          "Reduce speed when variable limits require it.",
+          "Look well ahead for changing signals."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "A closed lane is not available for normal travel.",
+        "bullets": [
+          "A closed lane is not available for normal travel.",
+          "Signals may respond to an incident ahead."
+        ]
+      }
+    ],
+    "key_points": [
+      "Obey red-X lane closures.",
+      "Reduce speed when variable limits require it.",
+      "Look well ahead for changing signals."
+    ],
+    "exam_tips": [
+      "A closed lane is not available for normal travel.",
+      "Signals may respond to an incident ahead."
+    ],
+    "tags": [
+      "motorway rules",
+      "smart motorway",
+      "signals and lane closures"
+    ]
+  },
+  {
+    "id": "gb_037",
+    "category": "Rules of the road",
+    "module": "Junctions",
+    "order": 1,
+    "title": "Junctions and priorities",
+    "minutes": 11,
+    "summary": "Junctions create crossing paths, so drivers must combine formal priority rules with observation.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Junctions create crossing paths, so drivers must combine formal priority rules with observation.",
+        "bullets": [
+          "Approach at a speed that allows you to stop if needed.",
+          "Check for pedestrians, cyclists and motorcycles."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Approach at a speed that allows you to stop if needed.",
+        "bullets": [
+          "Check for pedestrians, cyclists and motorcycles.",
+          "Do not enter a junction you cannot clear."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Priority never removes the need to look.",
+        "bullets": [
+          "Priority never removes the need to look.",
+          "Blocked exits can trap you in conflict areas."
+        ]
+      }
+    ],
+    "key_points": [
+      "Approach at a speed that allows you to stop if needed.",
+      "Check for pedestrians, cyclists and motorcycles.",
+      "Do not enter a junction you cannot clear."
+    ],
+    "exam_tips": [
+      "Priority never removes the need to look.",
+      "Blocked exits can trap you in conflict areas."
+    ],
+    "tags": [
+      "rules of the road",
+      "junctions",
+      "junctions and priorities"
+    ]
+  },
+  {
+    "id": "gb_038",
+    "category": "Rules of the road",
+    "module": "Roundabouts",
+    "order": 2,
+    "title": "Roundabouts",
+    "minutes": 12,
+    "summary": "Roundabouts require early observation, correct lane choice and clear signalling.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Roundabouts require early observation, correct lane choice and clear signalling.",
+        "bullets": [
+          "Read signs and road markings before entering.",
+          "Watch for traffic already using the roundabout."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Read signs and road markings before entering.",
+        "bullets": [
+          "Watch for traffic already using the roundabout.",
+          "Check for cyclists and pedestrians when leaving."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Choose your lane early.",
+        "bullets": [
+          "Choose your lane early.",
+          "Avoid late sudden lane changes."
+        ]
+      }
+    ],
+    "key_points": [
+      "Read signs and road markings before entering.",
+      "Watch for traffic already using the roundabout.",
+      "Check for cyclists and pedestrians when leaving."
+    ],
+    "exam_tips": [
+      "Choose your lane early.",
+      "Avoid late sudden lane changes."
+    ],
+    "tags": [
+      "rules of the road",
+      "roundabouts",
+      "roundabouts"
+    ]
+  },
+  {
+    "id": "gb_039",
+    "category": "Rules of the road",
+    "module": "Overtaking",
+    "order": 3,
+    "title": "Overtaking",
+    "minutes": 13,
+    "summary": "Overtaking should only begin when there is enough view, time and space to finish safely.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Overtaking should only begin when there is enough view, time and space to finish safely.",
+        "bullets": [
+          "Check mirrors and blind spots before moving out.",
+          "Do not overtake where signs or road layout prohibit it."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Check mirrors and blind spots before moving out.",
+        "bullets": [
+          "Do not overtake where signs or road layout prohibit it.",
+          "Return without cutting in too closely."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "If you are unsure, wait.",
+        "bullets": [
+          "If you are unsure, wait.",
+          "Do not exceed safe speed simply to complete an overtake."
+        ]
+      }
+    ],
+    "key_points": [
+      "Check mirrors and blind spots before moving out.",
+      "Do not overtake where signs or road layout prohibit it.",
+      "Return without cutting in too closely."
+    ],
+    "exam_tips": [
+      "If you are unsure, wait.",
+      "Do not exceed safe speed simply to complete an overtake."
+    ],
+    "tags": [
+      "rules of the road",
+      "overtaking",
+      "overtaking"
+    ]
+  },
+  {
+    "id": "gb_040",
+    "category": "Rules of the road",
+    "module": "Parking",
+    "order": 4,
+    "title": "Stopping and parking",
+    "minutes": 14,
+    "summary": "Where you stop or park must not create unnecessary obstruction, danger or blocked visibility.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Where you stop or park must not create unnecessary obstruction, danger or blocked visibility.",
+        "bullets": [
+          "Check signs, lines and local restrictions.",
+          "Do not block crossings or entrances."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Check signs, lines and local restrictions.",
+        "bullets": [
+          "Do not block crossings or entrances.",
+          "Check for cyclists before opening a door."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "A convenient place may still be unsafe.",
+        "bullets": [
+          "A convenient place may still be unsafe.",
+          "Think about what other road users can see."
+        ]
+      }
+    ],
+    "key_points": [
+      "Check signs, lines and local restrictions.",
+      "Do not block crossings or entrances.",
+      "Check for cyclists before opening a door."
+    ],
+    "exam_tips": [
+      "A convenient place may still be unsafe.",
+      "Think about what other road users can see."
+    ],
+    "tags": [
+      "rules of the road",
+      "parking",
+      "stopping and parking"
+    ]
+  },
+  {
+    "id": "gb_041",
+    "category": "Road and traffic signs",
+    "module": "Sign groups",
+    "order": 1,
+    "title": "Warning, regulatory and information signs",
+    "minutes": 15,
+    "summary": "Shape, colour and symbols help drivers quickly understand the purpose of road signs.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Shape, colour and symbols help drivers quickly understand the purpose of road signs.",
+        "bullets": [
+          "Learn sign families as well as individual symbols.",
+          "Read supplementary plates together with the main sign."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Learn sign families as well as individual symbols.",
+        "bullets": [
+          "Read supplementary plates together with the main sign.",
+          "Respond early to warning signs."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Recognise the sign type before interpreting the detail.",
+        "bullets": [
+          "Recognise the sign type before interpreting the detail.",
+          "Road markings and signs often work together."
+        ]
+      }
+    ],
+    "key_points": [
+      "Learn sign families as well as individual symbols.",
+      "Read supplementary plates together with the main sign.",
+      "Respond early to warning signs."
+    ],
+    "exam_tips": [
+      "Recognise the sign type before interpreting the detail.",
+      "Road markings and signs often work together."
+    ],
+    "tags": [
+      "road and traffic signs",
+      "sign groups",
+      "warning, regulatory and information signs"
+    ]
+  },
+  {
+    "id": "gb_042",
+    "category": "Road and traffic signs",
+    "module": "Signals",
+    "order": 2,
+    "title": "Traffic lights and signals",
+    "minutes": 10,
+    "summary": "Signals control conflicting movements and may apply to a particular lane or direction.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Signals control conflicting movements and may apply to a particular lane or direction.",
+        "bullets": [
+          "Identify which signal applies to you.",
+          "Stop when required and do not anticipate a change."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Identify which signal applies to you.",
+        "bullets": [
+          "Stop when required and do not anticipate a change.",
+          "Proceed only when the route is safe."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Green does not mean ignore hazards.",
+        "bullets": [
+          "Green does not mean ignore hazards.",
+          "Arrows may control a specific movement."
+        ]
+      }
+    ],
+    "key_points": [
+      "Identify which signal applies to you.",
+      "Stop when required and do not anticipate a change.",
+      "Proceed only when the route is safe."
+    ],
+    "exam_tips": [
+      "Green does not mean ignore hazards.",
+      "Arrows may control a specific movement."
+    ],
+    "tags": [
+      "road and traffic signs",
+      "signals",
+      "traffic lights and signals"
+    ]
+  },
+  {
+    "id": "gb_043",
+    "category": "Road and traffic signs",
+    "module": "Markings",
+    "order": 3,
+    "title": "Road markings",
+    "minutes": 11,
+    "summary": "Lines, arrows, boxes and other markings organise lane use, stopping points and priorities.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Lines, arrows, boxes and other markings organise lane use, stopping points and priorities.",
+        "bullets": [
+          "Read markings early so you can choose the correct lane.",
+          "Do not cross restrictions unless the rules allow it."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Read markings early so you can choose the correct lane.",
+        "bullets": [
+          "Do not cross restrictions unless the rules allow it.",
+          "Keep crossing and junction boxes clear when required."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "The road surface gives information before you reach the junction.",
+        "bullets": [
+          "The road surface gives information before you reach the junction.",
+          "Combine markings with nearby signs."
+        ]
+      }
+    ],
+    "key_points": [
+      "Read markings early so you can choose the correct lane.",
+      "Do not cross restrictions unless the rules allow it.",
+      "Keep crossing and junction boxes clear when required."
+    ],
+    "exam_tips": [
+      "The road surface gives information before you reach the junction.",
+      "Combine markings with nearby signs."
+    ],
+    "tags": [
+      "road and traffic signs",
+      "markings",
+      "road markings"
+    ]
+  },
+  {
+    "id": "gb_044",
+    "category": "Road and traffic signs",
+    "module": "Temporary",
+    "order": 4,
+    "title": "Temporary signs and roadworks",
+    "minutes": 12,
+    "summary": "Temporary traffic management changes normal road layout and can reduce available space.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Temporary traffic management changes normal road layout and can reduce available space.",
+        "bullets": [
+          "Follow temporary limits and lane directions.",
+          "Watch for workers and narrow lanes."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Follow temporary limits and lane directions.",
+        "bullets": [
+          "Watch for workers and narrow lanes.",
+          "Allow more space and avoid sudden lane changes."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Temporary signs can override the usual layout.",
+        "bullets": [
+          "Temporary signs can override the usual layout.",
+          "Roadworks need extra patience."
+        ]
+      }
+    ],
+    "key_points": [
+      "Follow temporary limits and lane directions.",
+      "Watch for workers and narrow lanes.",
+      "Allow more space and avoid sudden lane changes."
+    ],
+    "exam_tips": [
+      "Temporary signs can override the usual layout.",
+      "Roadworks need extra patience."
+    ],
+    "tags": [
+      "road and traffic signs",
+      "temporary",
+      "temporary signs and roadworks"
+    ]
+  },
+  {
+    "id": "gb_045",
+    "category": "Documents",
+    "module": "Licence",
+    "order": 1,
+    "title": "Licence and legal responsibility",
+    "minutes": 13,
+    "summary": "Drivers need the correct entitlement and must follow the conditions that apply to their licence.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Drivers need the correct entitlement and must follow the conditions that apply to their licence.",
+        "bullets": [
+          "Make sure you are entitled to drive the vehicle.",
+          "Keep personal details and required records up to date."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Make sure you are entitled to drive the vehicle.",
+        "bullets": [
+          "Keep personal details and required records up to date.",
+          "Follow restrictions that apply to learner or new drivers."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "A licence category matters for the vehicle being driven.",
+        "bullets": [
+          "A licence category matters for the vehicle being driven.",
+          "Legal responsibility starts before the journey."
+        ]
+      }
+    ],
+    "key_points": [
+      "Make sure you are entitled to drive the vehicle.",
+      "Keep personal details and required records up to date.",
+      "Follow restrictions that apply to learner or new drivers."
+    ],
+    "exam_tips": [
+      "A licence category matters for the vehicle being driven.",
+      "Legal responsibility starts before the journey."
+    ],
+    "tags": [
+      "documents",
+      "licence",
+      "licence and legal responsibility"
+    ]
+  },
+  {
+    "id": "gb_046",
+    "category": "Documents",
+    "module": "Insurance",
+    "order": 2,
+    "title": "Insurance and financial responsibility",
+    "minutes": 14,
+    "summary": "Driving requires appropriate insurance and other legal arrangements for the vehicle and driver.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Driving requires appropriate insurance and other legal arrangements for the vehicle and driver.",
+        "bullets": [
+          "Check that cover applies to the driver and vehicle.",
+          "Do not assume another person’s policy automatically covers you."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Check that cover applies to the driver and vehicle.",
+        "bullets": [
+          "Do not assume another person’s policy automatically covers you.",
+          "Keep required arrangements valid."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Insurance questions often distinguish vehicle ownership from driving cover.",
+        "bullets": [
+          "Insurance questions often distinguish vehicle ownership from driving cover.",
+          "Check rather than assume."
+        ]
+      }
+    ],
+    "key_points": [
+      "Check that cover applies to the driver and vehicle.",
+      "Do not assume another person’s policy automatically covers you.",
+      "Keep required arrangements valid."
+    ],
+    "exam_tips": [
+      "Insurance questions often distinguish vehicle ownership from driving cover.",
+      "Check rather than assume."
+    ],
+    "tags": [
+      "documents",
+      "insurance",
+      "insurance and financial responsibility"
+    ]
+  },
+  {
+    "id": "gb_047",
+    "category": "Documents",
+    "module": "Vehicle status",
+    "order": 3,
+    "title": "MOT, tax and vehicle condition",
+    "minutes": 15,
+    "summary": "A vehicle’s legal status does not replace the driver’s duty to keep it safe to use.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "A vehicle’s legal status does not replace the driver’s duty to keep it safe to use.",
+        "bullets": [
+          "Deal with safety defects even if a test certificate is current.",
+          "Keep required vehicle records valid."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Deal with safety defects even if a test certificate is current.",
+        "bullets": [
+          "Keep required vehicle records valid.",
+          "Do not drive an obviously unsafe vehicle."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "A certificate describes a test at a point in time.",
+        "bullets": [
+          "A certificate describes a test at a point in time.",
+          "The driver still checks current condition."
+        ]
+      }
+    ],
+    "key_points": [
+      "Deal with safety defects even if a test certificate is current.",
+      "Keep required vehicle records valid.",
+      "Do not drive an obviously unsafe vehicle."
+    ],
+    "exam_tips": [
+      "A certificate describes a test at a point in time.",
+      "The driver still checks current condition."
+    ],
+    "tags": [
+      "documents",
+      "vehicle status",
+      "mot, tax and vehicle condition"
+    ]
+  },
+  {
+    "id": "gb_048",
+    "category": "Documents",
+    "module": "Planning",
+    "order": 4,
+    "title": "Journey and document preparation",
+    "minutes": 10,
+    "summary": "Planning reduces last-minute decisions and helps keep attention on driving.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Planning reduces last-minute decisions and helps keep attention on driving.",
+        "bullets": [
+          "Know your route before moving when possible.",
+          "Allow enough time so you are not pressured to speed."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Know your route before moving when possible.",
+        "bullets": [
+          "Allow enough time so you are not pressured to speed.",
+          "Check fuel or charge and important vehicle warnings."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Preparation reduces distraction.",
+        "bullets": [
+          "Preparation reduces distraction.",
+          "Time pressure is not a reason to take risks."
+        ]
+      }
+    ],
+    "key_points": [
+      "Know your route before moving when possible.",
+      "Allow enough time so you are not pressured to speed.",
+      "Check fuel or charge and important vehicle warnings."
+    ],
+    "exam_tips": [
+      "Preparation reduces distraction.",
+      "Time pressure is not a reason to take risks."
+    ],
+    "tags": [
+      "documents",
+      "planning",
+      "journey and document preparation"
+    ]
+  },
+  {
+    "id": "gb_049",
+    "category": "Incidents and first response",
+    "module": "Collision",
+    "order": 1,
+    "title": "What to do after a collision",
+    "minutes": 11,
+    "summary": "After a collision, protect life and prevent further danger before dealing with information and reporting.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "After a collision, protect life and prevent further danger before dealing with information and reporting.",
+        "bullets": [
+          "Stop and assess the situation.",
+          "Call emergency services when injuries or serious danger require it."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Stop and assess the situation.",
+        "bullets": [
+          "Call emergency services when injuries or serious danger require it.",
+          "Warn other traffic only when it can be done safely."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Do not create a second incident while trying to help.",
+        "bullets": [
+          "Do not create a second incident while trying to help.",
+          "Medical and scene safety come first."
+        ]
+      }
+    ],
+    "key_points": [
+      "Stop and assess the situation.",
+      "Call emergency services when injuries or serious danger require it.",
+      "Warn other traffic only when it can be done safely."
+    ],
+    "exam_tips": [
+      "Do not create a second incident while trying to help.",
+      "Medical and scene safety come first."
+    ],
+    "tags": [
+      "incidents and first response",
+      "collision",
+      "what to do after a collision"
+    ]
+  },
+  {
+    "id": "gb_050",
+    "category": "Incidents and first response",
+    "module": "First response",
+    "order": 2,
+    "title": "Basic first-response priorities",
+    "minutes": 12,
+    "summary": "At an incident, the safest useful action is to make the scene safer, call for help and give appropriate basic assistance.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "At an incident, the safest useful action is to make the scene safer, call for help and give appropriate basic assistance.",
+        "bullets": [
+          "Check for danger before approaching.",
+          "Contact emergency services with clear location information."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Check for danger before approaching.",
+        "bullets": [
+          "Contact emergency services with clear location information.",
+          "Avoid moving an injured person unless leaving them creates greater danger."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Protect yourself so you can help others.",
+        "bullets": [
+          "Protect yourself so you can help others.",
+          "Follow emergency-service instructions."
+        ]
+      }
+    ],
+    "key_points": [
+      "Check for danger before approaching.",
+      "Contact emergency services with clear location information.",
+      "Avoid moving an injured person unless leaving them creates greater danger."
+    ],
+    "exam_tips": [
+      "Protect yourself so you can help others.",
+      "Follow emergency-service instructions."
+    ],
+    "tags": [
+      "incidents and first response",
+      "first response",
+      "basic first-response priorities"
+    ]
+  },
+  {
+    "id": "gb_051",
+    "category": "Incidents and first response",
+    "module": "Warning",
+    "order": 3,
+    "title": "Warning other traffic",
+    "minutes": 13,
+    "summary": "A stopped or damaged vehicle can become a new hazard if approaching drivers do not see it in time.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "A stopped or damaged vehicle can become a new hazard if approaching drivers do not see it in time.",
+        "bullets": [
+          "Use hazard warnings where appropriate.",
+          "Move people away from live traffic when possible."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Use hazard warnings where appropriate.",
+        "bullets": [
+          "Move people away from live traffic when possible.",
+          "Use safe warning methods without walking into danger."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Visibility matters after an incident.",
+        "bullets": [
+          "Visibility matters after an incident.",
+          "Never trade your own safety for a warning device."
+        ]
+      }
+    ],
+    "key_points": [
+      "Use hazard warnings where appropriate.",
+      "Move people away from live traffic when possible.",
+      "Use safe warning methods without walking into danger."
+    ],
+    "exam_tips": [
+      "Visibility matters after an incident.",
+      "Never trade your own safety for a warning device."
+    ],
+    "tags": [
+      "incidents and first response",
+      "warning",
+      "warning other traffic"
+    ]
+  },
+  {
+    "id": "gb_052",
+    "category": "Incidents and first response",
+    "module": "Reporting",
+    "order": 4,
+    "title": "Information and reporting",
+    "minutes": 14,
+    "summary": "Drivers involved in incidents may have duties to exchange details or report what happened.",
+    "sections": [
+      {
+        "heading": "Core idea",
+        "body": "Drivers involved in incidents may have duties to exchange details or report what happened.",
+        "bullets": [
+          "Remain calm and record information safely.",
+          "Do not argue at the roadside."
+        ]
+      },
+      {
+        "heading": "Safe application",
+        "body": "Remain calm and record information safely.",
+        "bullets": [
+          "Do not argue at the roadside.",
+          "Follow the legal reporting requirements that apply to the situation."
+        ]
+      },
+      {
+        "heading": "Test tip",
+        "body": "Safety first, paperwork second.",
+        "bullets": [
+          "Safety first, paperwork second.",
+          "Accurate details are better than blame."
+        ]
+      }
+    ],
+    "key_points": [
+      "Remain calm and record information safely.",
+      "Do not argue at the roadside.",
+      "Follow the legal reporting requirements that apply to the situation."
+    ],
+    "exam_tips": [
+      "Safety first, paperwork second.",
+      "Accurate details are better than blame."
+    ],
+    "tags": [
+      "incidents and first response",
+      "reporting",
+      "information and reporting"
+    ]
+  }
+]

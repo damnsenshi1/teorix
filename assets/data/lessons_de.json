@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "de_001",
+    "category": "Gefahrenlehre",
+    "module": "Mensch",
+    "order": 1,
+    "title": "Wahrnehmung und Reaktion",
+    "minutes": 11,
+    "summary": "Sicheres Fahren beginnt mit rechtzeitigem Erkennen, Entscheiden und Reagieren.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Sicheres Fahren beginnt mit rechtzeitigem Erkennen, Entscheiden und Reagieren.",
+        "bullets": [
+          "Ablenkung verlängert die Zeit bis zur Reaktion.",
+          "Müdigkeit kann Wahrnehmung und Entscheidung verschlechtern."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Ablenkung verlängert die Zeit bis zur Reaktion.",
+        "bullets": [
+          "Müdigkeit kann Wahrnehmung und Entscheidung verschlechtern.",
+          "Vorausschauendes Fahren schafft Zeitreserven."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Gefahr früh erkennen statt spät hart reagieren.",
+        "bullets": [
+          "Gefahr früh erkennen statt spät hart reagieren.",
+          "Bei Unsicherheit Sicherheitsreserve vergrößern."
+        ]
+      }
+    ],
+    "key_points": [
+      "Ablenkung verlängert die Zeit bis zur Reaktion.",
+      "Müdigkeit kann Wahrnehmung und Entscheidung verschlechtern.",
+      "Vorausschauendes Fahren schafft Zeitreserven."
+    ],
+    "exam_tips": [
+      "Gefahr früh erkennen statt spät hart reagieren.",
+      "Bei Unsicherheit Sicherheitsreserve vergrößern."
+    ],
+    "tags": [
+      "gefahrenlehre",
+      "mensch",
+      "wahrnehmung und reaktion"
+    ]
+  },
+  {
+    "id": "de_002",
+    "category": "Gefahrenlehre",
+    "module": "Mensch",
+    "order": 2,
+    "title": "Müdigkeit, Stress und Emotionen",
+    "minutes": 12,
+    "summary": "Müdigkeit, Stress und starke Emotionen können die Fahraufgabe deutlich beeinträchtigen.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Müdigkeit, Stress und starke Emotionen können die Fahraufgabe deutlich beeinträchtigen.",
+        "bullets": [
+          "Bei Schläfrigkeit ist eine Pause notwendig.",
+          "Aggressives Fahren erhöht das Konfliktrisiko."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Bei Schläfrigkeit ist eine Pause notwendig.",
+        "bullets": [
+          "Aggressives Fahren erhöht das Konfliktrisiko.",
+          "Zeitdruck ist kein Grund für riskantes Verhalten."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Sicherheit geht vor Zeitgewinn.",
+        "bullets": [
+          "Sicherheit geht vor Zeitgewinn.",
+          "Müdigkeit lässt sich nicht zuverlässig mit Tricks überdecken."
+        ]
+      }
+    ],
+    "key_points": [
+      "Bei Schläfrigkeit ist eine Pause notwendig.",
+      "Aggressives Fahren erhöht das Konfliktrisiko.",
+      "Zeitdruck ist kein Grund für riskantes Verhalten."
+    ],
+    "exam_tips": [
+      "Sicherheit geht vor Zeitgewinn.",
+      "Müdigkeit lässt sich nicht zuverlässig mit Tricks überdecken."
+    ],
+    "tags": [
+      "gefahrenlehre",
+      "mensch",
+      "müdigkeit, stress und emotionen"
+    ]
+  },
+  {
+    "id": "de_003",
+    "category": "Gefahrenlehre",
+    "module": "Umwelt",
+    "order": 3,
+    "title": "Wetter, Sicht und Fahrbahn",
+    "minutes": 13,
+    "summary": "Regen, Schnee, Nebel und Dunkelheit verändern Sicht, Haftung und Bremsweg.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Regen, Schnee, Nebel und Dunkelheit verändern Sicht, Haftung und Bremsweg.",
+        "bullets": [
+          "Geschwindigkeit an Sicht und Fahrbahn anpassen.",
+          "Bei schlechter Haftung mehr Abstand halten."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Geschwindigkeit an Sicht und Fahrbahn anpassen.",
+        "bullets": [
+          "Bei schlechter Haftung mehr Abstand halten.",
+          "Mit plötzlich veränderten Bedingungen rechnen."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Schlechtere Bedingungen = größere Reserve.",
+        "bullets": [
+          "Schlechtere Bedingungen = größere Reserve.",
+          "Nicht nur die erlaubte Höchstgeschwindigkeit betrachten."
+        ]
+      }
+    ],
+    "key_points": [
+      "Geschwindigkeit an Sicht und Fahrbahn anpassen.",
+      "Bei schlechter Haftung mehr Abstand halten.",
+      "Mit plötzlich veränderten Bedingungen rechnen."
+    ],
+    "exam_tips": [
+      "Schlechtere Bedingungen = größere Reserve.",
+      "Nicht nur die erlaubte Höchstgeschwindigkeit betrachten."
+    ],
+    "tags": [
+      "gefahrenlehre",
+      "umwelt",
+      "wetter, sicht und fahrbahn"
+    ]
+  },
+  {
+    "id": "de_004",
+    "category": "Gefahrenlehre",
+    "module": "Verkehr",
+    "order": 4,
+    "title": "Gefahrenstellen früh erkennen",
+    "minutes": 14,
+    "summary": "Kreuzungen, Baustellen, Haltestellen und unübersichtliche Bereiche verlangen erhöhte Aufmerksamkeit.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Kreuzungen, Baustellen, Haltestellen und unübersichtliche Bereiche verlangen erhöhte Aufmerksamkeit.",
+        "bullets": [
+          "Blickführung weit nach vorn hilft Gefahren früh zu erkennen.",
+          "Bei verdeckter Sicht mit unerwarteten Verkehrsteilnehmern rechnen."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Blickführung weit nach vorn hilft Gefahren früh zu erkennen.",
+        "bullets": [
+          "Bei verdeckter Sicht mit unerwarteten Verkehrsteilnehmern rechnen.",
+          "Geschwindigkeit vor der Gefahrenstelle reduzieren."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Früh reagieren statt in letzter Sekunde.",
+        "bullets": [
+          "Früh reagieren statt in letzter Sekunde.",
+          "Sichtbehinderung bedeutet Unsicherheit."
+        ]
+      }
+    ],
+    "key_points": [
+      "Blickführung weit nach vorn hilft Gefahren früh zu erkennen.",
+      "Bei verdeckter Sicht mit unerwarteten Verkehrsteilnehmern rechnen.",
+      "Geschwindigkeit vor der Gefahrenstelle reduzieren."
+    ],
+    "exam_tips": [
+      "Früh reagieren statt in letzter Sekunde.",
+      "Sichtbehinderung bedeutet Unsicherheit."
+    ],
+    "tags": [
+      "gefahrenlehre",
+      "verkehr",
+      "gefahrenstellen früh erkennen"
+    ]
+  },
+  {
+    "id": "de_005",
+    "category": "Verhalten im Straßenverkehr",
+    "module": "Grundregeln",
+    "order": 1,
+    "title": "Rücksicht und gegenseitige Verantwortung",
+    "minutes": 10,
+    "summary": "Teilnahme am Straßenverkehr verlangt ständige Vorsicht und gegenseitige Rücksicht.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Teilnahme am Straßenverkehr verlangt ständige Vorsicht und gegenseitige Rücksicht.",
+        "bullets": [
+          "Eigene Rechte dürfen nicht rücksichtslos durchgesetzt werden.",
+          "Fehler anderer müssen soweit möglich einkalkuliert werden."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Eigene Rechte dürfen nicht rücksichtslos durchgesetzt werden.",
+        "bullets": [
+          "Fehler anderer müssen soweit möglich einkalkuliert werden.",
+          "Vorhersehbares Verhalten erleichtert Kooperation."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Recht haben ersetzt keine Vorsicht.",
+        "bullets": [
+          "Recht haben ersetzt keine Vorsicht.",
+          "Defensives Verhalten ist häufig die sichere Antwort."
+        ]
+      }
+    ],
+    "key_points": [
+      "Eigene Rechte dürfen nicht rücksichtslos durchgesetzt werden.",
+      "Fehler anderer müssen soweit möglich einkalkuliert werden.",
+      "Vorhersehbares Verhalten erleichtert Kooperation."
+    ],
+    "exam_tips": [
+      "Recht haben ersetzt keine Vorsicht.",
+      "Defensives Verhalten ist häufig die sichere Antwort."
+    ],
+    "tags": [
+      "verhalten im straßenverkehr",
+      "grundregeln",
+      "rücksicht und gegenseitige verantwortung"
+    ]
+  },
+  {
+    "id": "de_006",
+    "category": "Verhalten im Straßenverkehr",
+    "module": "Fahrstreifen",
+    "order": 2,
+    "title": "Fahrstreifenwechsel und Einordnen",
+    "minutes": 11,
+    "summary": "Vor einem Fahrstreifenwechsel sind Umfeld, Spiegel und toter Winkel zu prüfen.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Vor einem Fahrstreifenwechsel sind Umfeld, Spiegel und toter Winkel zu prüfen.",
+        "bullets": [
+          "Fahrtrichtungsanzeiger rechtzeitig benutzen.",
+          "Andere nicht zu abruptem Bremsen zwingen."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Fahrtrichtungsanzeiger rechtzeitig benutzen.",
+        "bullets": [
+          "Andere nicht zu abruptem Bremsen zwingen.",
+          "Nach dem Wechsel ausreichenden Abstand herstellen."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Spiegel plus Schulterblick.",
+        "bullets": [
+          "Spiegel plus Schulterblick.",
+          "Späte hektische Spurwechsel vermeiden."
+        ]
+      }
+    ],
+    "key_points": [
+      "Fahrtrichtungsanzeiger rechtzeitig benutzen.",
+      "Andere nicht zu abruptem Bremsen zwingen.",
+      "Nach dem Wechsel ausreichenden Abstand herstellen."
+    ],
+    "exam_tips": [
+      "Spiegel plus Schulterblick.",
+      "Späte hektische Spurwechsel vermeiden."
+    ],
+    "tags": [
+      "verhalten im straßenverkehr",
+      "fahrstreifen",
+      "fahrstreifenwechsel und einordnen"
+    ]
+  },
+  {
+    "id": "de_007",
+    "category": "Verhalten im Straßenverkehr",
+    "module": "Überholen",
+    "order": 3,
+    "title": "Überholen und Vorbeifahren",
+    "minutes": 12,
+    "summary": "Überholen ist nur vertretbar, wenn Strecke, Sicht und Geschwindigkeitsunterschied ausreichen.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Überholen ist nur vertretbar, wenn Strecke, Sicht und Geschwindigkeitsunterschied ausreichen.",
+        "bullets": [
+          "Gegenverkehr und Verbote beachten.",
+          "Sicherheitsabstand beim Ausscheren und Einscheren halten."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Gegenverkehr und Verbote beachten.",
+        "bullets": [
+          "Sicherheitsabstand beim Ausscheren und Einscheren halten.",
+          "Bei Zweifel nicht überholen."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Unklare Sicht = kein Überholversuch.",
+        "bullets": [
+          "Unklare Sicht = kein Überholversuch.",
+          "Nach dem Überholen nicht zu früh einscheren."
+        ]
+      }
+    ],
+    "key_points": [
+      "Gegenverkehr und Verbote beachten.",
+      "Sicherheitsabstand beim Ausscheren und Einscheren halten.",
+      "Bei Zweifel nicht überholen."
+    ],
+    "exam_tips": [
+      "Unklare Sicht = kein Überholversuch.",
+      "Nach dem Überholen nicht zu früh einscheren."
+    ],
+    "tags": [
+      "verhalten im straßenverkehr",
+      "überholen",
+      "überholen und vorbeifahren"
+    ]
+  },
+  {
+    "id": "de_008",
+    "category": "Verhalten im Straßenverkehr",
+    "module": "Halten und Parken",
+    "order": 4,
+    "title": "Halten, Parken und Aussteigen",
+    "minutes": 13,
+    "summary": "Ein abgestelltes Fahrzeug darf andere nicht gefährden oder wichtige Sicht- und Verkehrsbereiche blockieren.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Ein abgestelltes Fahrzeug darf andere nicht gefährden oder wichtige Sicht- und Verkehrsbereiche blockieren.",
+        "bullets": [
+          "Beschilderung und Markierungen beachten.",
+          "Vor dem Türöffnen auf Radverkehr achten."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Beschilderung und Markierungen beachten.",
+        "bullets": [
+          "Vor dem Türöffnen auf Radverkehr achten.",
+          "Fahrzeug gegen Wegrollen sichern."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Aussteigen gehört noch zur Verkehrssituation.",
+        "bullets": [
+          "Aussteigen gehört noch zur Verkehrssituation.",
+          "Sichtfelder an Kreuzungen freihalten."
+        ]
+      }
+    ],
+    "key_points": [
+      "Beschilderung und Markierungen beachten.",
+      "Vor dem Türöffnen auf Radverkehr achten.",
+      "Fahrzeug gegen Wegrollen sichern."
+    ],
+    "exam_tips": [
+      "Aussteigen gehört noch zur Verkehrssituation.",
+      "Sichtfelder an Kreuzungen freihalten."
+    ],
+    "tags": [
+      "verhalten im straßenverkehr",
+      "halten und parken",
+      "halten, parken und aussteigen"
+    ]
+  },
+  {
+    "id": "de_009",
+    "category": "Vorfahrt und Verkehrszeichen",
+    "module": "Vorfahrt",
+    "order": 1,
+    "title": "Vorfahrtregeln an Kreuzungen",
+    "minutes": 14,
+    "summary": "Vorfahrt ergibt sich aus Anweisungen, Lichtzeichen, Beschilderung und den allgemeinen Regeln.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Vorfahrt ergibt sich aus Anweisungen, Lichtzeichen, Beschilderung und den allgemeinen Regeln.",
+        "bullets": [
+          "Anweisungen berechtigter Personen haben Vorrang.",
+          "Auch bei eigener Vorfahrt Kreuzung beobachten."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Anweisungen berechtigter Personen haben Vorrang.",
+        "bullets": [
+          "Auch bei eigener Vorfahrt Kreuzung beobachten.",
+          "Unübersichtliche Bereiche langsam annähern."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Zuerst klären, welche Regel gilt.",
+        "bullets": [
+          "Zuerst klären, welche Regel gilt.",
+          "Vorfahrt nie blind erzwingen."
+        ]
+      }
+    ],
+    "key_points": [
+      "Anweisungen berechtigter Personen haben Vorrang.",
+      "Auch bei eigener Vorfahrt Kreuzung beobachten.",
+      "Unübersichtliche Bereiche langsam annähern."
+    ],
+    "exam_tips": [
+      "Zuerst klären, welche Regel gilt.",
+      "Vorfahrt nie blind erzwingen."
+    ],
+    "tags": [
+      "vorfahrt und verkehrszeichen",
+      "vorfahrt",
+      "vorfahrtregeln an kreuzungen"
+    ]
+  },
+  {
+    "id": "de_010",
+    "category": "Vorfahrt und Verkehrszeichen",
+    "module": "Abbiegen",
+    "order": 2,
+    "title": "Abbiegen und Fuß-/Radverkehr",
+    "minutes": 10,
+    "summary": "Beim Abbiegen sind besonders querende Fußgänger und Radfahrer zu beachten.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Beim Abbiegen sind besonders querende Fußgänger und Radfahrer zu beachten.",
+        "bullets": [
+          "Vor dem Abbiegen Spiegel und toten Winkel prüfen.",
+          "Fahrtrichtung klar anzeigen."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Vor dem Abbiegen Spiegel und toten Winkel prüfen.",
+        "bullets": [
+          "Fahrtrichtung klar anzeigen.",
+          "Geschwindigkeit rechtzeitig reduzieren."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Schulterblick vor dem Abbiegen.",
+        "bullets": [
+          "Schulterblick vor dem Abbiegen.",
+          "Mit Radfahrern neben dem Fahrzeug rechnen."
+        ]
+      }
+    ],
+    "key_points": [
+      "Vor dem Abbiegen Spiegel und toten Winkel prüfen.",
+      "Fahrtrichtung klar anzeigen.",
+      "Geschwindigkeit rechtzeitig reduzieren."
+    ],
+    "exam_tips": [
+      "Schulterblick vor dem Abbiegen.",
+      "Mit Radfahrern neben dem Fahrzeug rechnen."
+    ],
+    "tags": [
+      "vorfahrt und verkehrszeichen",
+      "abbiegen",
+      "abbiegen und fuß-/radverkehr"
+    ]
+  },
+  {
+    "id": "de_011",
+    "category": "Vorfahrt und Verkehrszeichen",
+    "module": "Zeichen",
+    "order": 3,
+    "title": "Gefahr-, Vorschrift- und Richtzeichen",
+    "minutes": 11,
+    "summary": "Form, Farbe und Symbol helfen dabei, Verkehrszeichen schnell einzuordnen.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Form, Farbe und Symbol helfen dabei, Verkehrszeichen schnell einzuordnen.",
+        "bullets": [
+          "Verbots- und Gebotszeichen enthalten klare Verhaltensregeln.",
+          "Gefahrzeichen kündigen besondere Risiken an."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Verbots- und Gebotszeichen enthalten klare Verhaltensregeln.",
+        "bullets": [
+          "Gefahrzeichen kündigen besondere Risiken an.",
+          "Zusatzzeichen verändern oder ergänzen die Bedeutung."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Zeichen immer zusammen mit Zusatzzeichen lesen.",
+        "bullets": [
+          "Zeichen immer zusammen mit Zusatzzeichen lesen.",
+          "Nicht nur Symbol, sondern auch Schildgruppe lernen."
+        ]
+      }
+    ],
+    "key_points": [
+      "Verbots- und Gebotszeichen enthalten klare Verhaltensregeln.",
+      "Gefahrzeichen kündigen besondere Risiken an.",
+      "Zusatzzeichen verändern oder ergänzen die Bedeutung."
+    ],
+    "exam_tips": [
+      "Zeichen immer zusammen mit Zusatzzeichen lesen.",
+      "Nicht nur Symbol, sondern auch Schildgruppe lernen."
+    ],
+    "tags": [
+      "vorfahrt und verkehrszeichen",
+      "zeichen",
+      "gefahr-, vorschrift- und richtzeichen"
+    ]
+  },
+  {
+    "id": "de_012",
+    "category": "Vorfahrt und Verkehrszeichen",
+    "module": "Lichtzeichen",
+    "order": 4,
+    "title": "Ampeln, Pfeile und Polizeizeichen",
+    "minutes": 12,
+    "summary": "Lichtzeichen und Anweisungen regeln widersprüchliche Verkehrsströme.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Lichtzeichen und Anweisungen regeln widersprüchliche Verkehrsströme.",
+        "bullets": [
+          "Rotes Licht bedeutet grundsätzlich warten.",
+          "Richtungspfeile gelten für die angezeigte Richtung."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Rotes Licht bedeutet grundsätzlich warten.",
+        "bullets": [
+          "Richtungspfeile gelten für die angezeigte Richtung.",
+          "Anweisungen der Polizei gehen der normalen Regelung vor."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Prüfe, welches Signal für deinen Fahrstreifen gilt.",
+        "bullets": [
+          "Prüfe, welches Signal für deinen Fahrstreifen gilt.",
+          "Bei Grün trotzdem Kreuzungsbereich beobachten."
+        ]
+      }
+    ],
+    "key_points": [
+      "Rotes Licht bedeutet grundsätzlich warten.",
+      "Richtungspfeile gelten für die angezeigte Richtung.",
+      "Anweisungen der Polizei gehen der normalen Regelung vor."
+    ],
+    "exam_tips": [
+      "Prüfe, welches Signal für deinen Fahrstreifen gilt.",
+      "Bei Grün trotzdem Kreuzungsbereich beobachten."
+    ],
+    "tags": [
+      "vorfahrt und verkehrszeichen",
+      "lichtzeichen",
+      "ampeln, pfeile und polizeizeichen"
+    ]
+  },
+  {
+    "id": "de_013",
+    "category": "Umweltschutz",
+    "module": "Fahrweise",
+    "order": 1,
+    "title": "Umweltschonend und gleichmäßig fahren",
+    "minutes": 13,
+    "summary": "Vorausschauende, gleichmäßige Fahrweise senkt unnötigen Verbrauch und Verschleiß.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Vorausschauende, gleichmäßige Fahrweise senkt unnötigen Verbrauch und Verschleiß.",
+        "bullets": [
+          "Unnötige Beschleunigungs- und Bremsvorgänge vermeiden.",
+          "Rechtzeitig auf Verkehrsentwicklung reagieren."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Unnötige Beschleunigungs- und Bremsvorgänge vermeiden.",
+        "bullets": [
+          "Rechtzeitig auf Verkehrsentwicklung reagieren.",
+          "Korrekter Reifendruck unterstützt Effizienz."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Vorausschauend = oft sicherer und sparsamer.",
+        "bullets": [
+          "Vorausschauend = oft sicherer und sparsamer.",
+          "Unnötige Lastwechsel vermeiden."
+        ]
+      }
+    ],
+    "key_points": [
+      "Unnötige Beschleunigungs- und Bremsvorgänge vermeiden.",
+      "Rechtzeitig auf Verkehrsentwicklung reagieren.",
+      "Korrekter Reifendruck unterstützt Effizienz."
+    ],
+    "exam_tips": [
+      "Vorausschauend = oft sicherer und sparsamer.",
+      "Unnötige Lastwechsel vermeiden."
+    ],
+    "tags": [
+      "umweltschutz",
+      "fahrweise",
+      "umweltschonend und gleichmäßig fahren"
+    ]
+  },
+  {
+    "id": "de_014",
+    "category": "Umweltschutz",
+    "module": "Lärm",
+    "order": 2,
+    "title": "Lärm und unnötige Emissionen vermeiden",
+    "minutes": 14,
+    "summary": "Unnötiger Motorlauf und vermeidbarer Lärm belasten Umwelt und Umgebung.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Unnötiger Motorlauf und vermeidbarer Lärm belasten Umwelt und Umgebung.",
+        "bullets": [
+          "Motor nicht unnötig laufen lassen.",
+          "Defekte Abgasanlage zeitnah prüfen lassen."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Motor nicht unnötig laufen lassen.",
+        "bullets": [
+          "Defekte Abgasanlage zeitnah prüfen lassen.",
+          "Ruhige Fahrweise reduziert Lärm."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Technischen Zustand und Fahrweise zusammen betrachten.",
+        "bullets": [
+          "Technischen Zustand und Fahrweise zusammen betrachten.",
+          "Unnötiger Lärm ist vermeidbar."
+        ]
+      }
+    ],
+    "key_points": [
+      "Motor nicht unnötig laufen lassen.",
+      "Defekte Abgasanlage zeitnah prüfen lassen.",
+      "Ruhige Fahrweise reduziert Lärm."
+    ],
+    "exam_tips": [
+      "Technischen Zustand und Fahrweise zusammen betrachten.",
+      "Unnötiger Lärm ist vermeidbar."
+    ],
+    "tags": [
+      "umweltschutz",
+      "lärm",
+      "lärm und unnötige emissionen vermeiden"
+    ]
+  },
+  {
+    "id": "de_015",
+    "category": "Umweltschutz",
+    "module": "Technik",
+    "order": 3,
+    "title": "Reifen und Wartung",
+    "minutes": 10,
+    "summary": "Wartung beeinflusst Sicherheit, Verbrauch und Umweltbelastung.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Wartung beeinflusst Sicherheit, Verbrauch und Umweltbelastung.",
+        "bullets": [
+          "Reifendruck regelmäßig prüfen.",
+          "Mängel an Bremsen oder Beleuchtung nicht ignorieren."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Reifendruck regelmäßig prüfen.",
+        "bullets": [
+          "Mängel an Bremsen oder Beleuchtung nicht ignorieren.",
+          "Wartungsintervalle beachten."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Reifen sind Sicherheits- und Effizienzfaktor.",
+        "bullets": [
+          "Reifen sind Sicherheits- und Effizienzfaktor.",
+          "Warnleuchten ernst nehmen."
+        ]
+      }
+    ],
+    "key_points": [
+      "Reifendruck regelmäßig prüfen.",
+      "Mängel an Bremsen oder Beleuchtung nicht ignorieren.",
+      "Wartungsintervalle beachten."
+    ],
+    "exam_tips": [
+      "Reifen sind Sicherheits- und Effizienzfaktor.",
+      "Warnleuchten ernst nehmen."
+    ],
+    "tags": [
+      "umweltschutz",
+      "technik",
+      "reifen und wartung"
+    ]
+  },
+  {
+    "id": "de_016",
+    "category": "Umweltschutz",
+    "module": "Planung",
+    "order": 4,
+    "title": "Fahrten sinnvoll planen",
+    "minutes": 11,
+    "summary": "Gute Planung kann unnötige Wege, Zeitdruck und hektisches Fahren vermeiden.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Gute Planung kann unnötige Wege, Zeitdruck und hektisches Fahren vermeiden.",
+        "bullets": [
+          "Ausreichend Zeit einplanen.",
+          "Verkehrslage bei längeren Fahrten berücksichtigen."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Ausreichend Zeit einplanen.",
+        "bullets": [
+          "Verkehrslage bei längeren Fahrten berücksichtigen.",
+          "Pausen frühzeitig vorsehen."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Zeitdruck erzeugt Risiko.",
+        "bullets": [
+          "Zeitdruck erzeugt Risiko.",
+          "Planung hilft ruhig zu fahren."
+        ]
+      }
+    ],
+    "key_points": [
+      "Ausreichend Zeit einplanen.",
+      "Verkehrslage bei längeren Fahrten berücksichtigen.",
+      "Pausen frühzeitig vorsehen."
+    ],
+    "exam_tips": [
+      "Zeitdruck erzeugt Risiko.",
+      "Planung hilft ruhig zu fahren."
+    ],
+    "tags": [
+      "umweltschutz",
+      "planung",
+      "fahrten sinnvoll planen"
+    ]
+  },
+  {
+    "id": "de_017",
+    "category": "Fahrzeugtechnik",
+    "module": "Kontrolle",
+    "order": 1,
+    "title": "Sicherheitskontrolle vor der Fahrt",
+    "minutes": 12,
+    "summary": "Einfache Kontrollen helfen technische Risiken früh zu erkennen.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Einfache Kontrollen helfen technische Risiken früh zu erkennen.",
+        "bullets": [
+          "Reifen auf sichtbare Schäden prüfen.",
+          "Beleuchtung und Scheiben müssen funktionsfähig sein."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Reifen auf sichtbare Schäden prüfen.",
+        "bullets": [
+          "Beleuchtung und Scheiben müssen funktionsfähig sein.",
+          "Warnanzeigen nicht ignorieren."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Mängel vor Fahrtbeginn erkennen.",
+        "bullets": [
+          "Mängel vor Fahrtbeginn erkennen.",
+          "Sicht, Reifen und Licht sind Kernpunkte."
+        ]
+      }
+    ],
+    "key_points": [
+      "Reifen auf sichtbare Schäden prüfen.",
+      "Beleuchtung und Scheiben müssen funktionsfähig sein.",
+      "Warnanzeigen nicht ignorieren."
+    ],
+    "exam_tips": [
+      "Mängel vor Fahrtbeginn erkennen.",
+      "Sicht, Reifen und Licht sind Kernpunkte."
+    ],
+    "tags": [
+      "fahrzeugtechnik",
+      "kontrolle",
+      "sicherheitskontrolle vor der fahrt"
+    ]
+  },
+  {
+    "id": "de_018",
+    "category": "Fahrzeugtechnik",
+    "module": "Bremsen",
+    "order": 2,
+    "title": "Bremsen, ABS und Fahrstabilität",
+    "minutes": 13,
+    "summary": "Bremsanlagen und Assistenzsysteme unterstützen, ersetzen aber keine angepasste Fahrweise.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Bremsanlagen und Assistenzsysteme unterstützen, ersetzen aber keine angepasste Fahrweise.",
+        "bullets": [
+          "ABS hilft beim starken Bremsen die Lenkbarkeit zu erhalten.",
+          "Assistenzsysteme haben technische Grenzen."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "ABS hilft beim starken Bremsen die Lenkbarkeit zu erhalten.",
+        "bullets": [
+          "Assistenzsysteme haben technische Grenzen.",
+          "Der Fahrer bleibt für Geschwindigkeit und Abstand verantwortlich."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Assistenz ist Hilfe, kein Autopilot.",
+        "bullets": [
+          "Assistenz ist Hilfe, kein Autopilot.",
+          "Technik ersetzt keinen Sicherheitsabstand."
+        ]
+      }
+    ],
+    "key_points": [
+      "ABS hilft beim starken Bremsen die Lenkbarkeit zu erhalten.",
+      "Assistenzsysteme haben technische Grenzen.",
+      "Der Fahrer bleibt für Geschwindigkeit und Abstand verantwortlich."
+    ],
+    "exam_tips": [
+      "Assistenz ist Hilfe, kein Autopilot.",
+      "Technik ersetzt keinen Sicherheitsabstand."
+    ],
+    "tags": [
+      "fahrzeugtechnik",
+      "bremsen",
+      "bremsen, abs und fahrstabilität"
+    ]
+  },
+  {
+    "id": "de_019",
+    "category": "Fahrzeugtechnik",
+    "module": "Reifen",
+    "order": 3,
+    "title": "Reifen, Grip und Luftdruck",
+    "minutes": 14,
+    "summary": "Reifen stellen den Kontakt zwischen Fahrzeug und Fahrbahn her.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Reifen stellen den Kontakt zwischen Fahrzeug und Fahrbahn her.",
+        "bullets": [
+          "Zu wenig Profil oder falscher Druck kann Sicherheit verschlechtern.",
+          "Reifenzustand regelmäßig prüfen."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Zu wenig Profil oder falscher Druck kann Sicherheit verschlechtern.",
+        "bullets": [
+          "Reifenzustand regelmäßig prüfen.",
+          "Bei Nässe sinkt die Haftungsreserve."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Reifen beeinflussen Lenkung und Bremsen.",
+        "bullets": [
+          "Reifen beeinflussen Lenkung und Bremsen.",
+          "Schäden und Druck früh prüfen."
+        ]
+      }
+    ],
+    "key_points": [
+      "Zu wenig Profil oder falscher Druck kann Sicherheit verschlechtern.",
+      "Reifenzustand regelmäßig prüfen.",
+      "Bei Nässe sinkt die Haftungsreserve."
+    ],
+    "exam_tips": [
+      "Reifen beeinflussen Lenkung und Bremsen.",
+      "Schäden und Druck früh prüfen."
+    ],
+    "tags": [
+      "fahrzeugtechnik",
+      "reifen",
+      "reifen, grip und luftdruck"
+    ]
+  },
+  {
+    "id": "de_020",
+    "category": "Fahrzeugtechnik",
+    "module": "Beladung",
+    "order": 4,
+    "title": "Beladung und Ladungssicherung",
+    "minutes": 10,
+    "summary": "Ladung verändert Fahrzeugverhalten und muss gegen Verrutschen oder Herabfallen gesichert sein.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Ladung verändert Fahrzeugverhalten und muss gegen Verrutschen oder Herabfallen gesichert sein.",
+        "bullets": [
+          "Schwere Gegenstände möglichst stabil verstauen.",
+          "Sicht und Beleuchtung dürfen nicht verdeckt werden."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Schwere Gegenstände möglichst stabil verstauen.",
+        "bullets": [
+          "Sicht und Beleuchtung dürfen nicht verdeckt werden.",
+          "Mehr Masse kann Bremsweg und Fahrverhalten beeinflussen."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Lose Gegenstände werden bei Bremsung gefährlich.",
+        "bullets": [
+          "Lose Gegenstände werden bei Bremsung gefährlich.",
+          "Ladungssicherung gehört zur Fahrtvorbereitung."
+        ]
+      }
+    ],
+    "key_points": [
+      "Schwere Gegenstände möglichst stabil verstauen.",
+      "Sicht und Beleuchtung dürfen nicht verdeckt werden.",
+      "Mehr Masse kann Bremsweg und Fahrverhalten beeinflussen."
+    ],
+    "exam_tips": [
+      "Lose Gegenstände werden bei Bremsung gefährlich.",
+      "Ladungssicherung gehört zur Fahrtvorbereitung."
+    ],
+    "tags": [
+      "fahrzeugtechnik",
+      "beladung",
+      "beladung und ladungssicherung"
+    ]
+  },
+  {
+    "id": "de_021",
+    "category": "Geschwindigkeit und Abstand",
+    "module": "Geschwindigkeit",
+    "order": 1,
+    "title": "Angepasste Geschwindigkeit",
+    "minutes": 11,
+    "summary": "Zulässige Höchstgeschwindigkeit und sichere Geschwindigkeit sind nicht immer gleich.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Zulässige Höchstgeschwindigkeit und sichere Geschwindigkeit sind nicht immer gleich.",
+        "bullets": [
+          "Sichtweite und Fahrbahnzustand berücksichtigen.",
+          "Vor unübersichtlichen Stellen Geschwindigkeit reduzieren."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Sichtweite und Fahrbahnzustand berücksichtigen.",
+        "bullets": [
+          "Vor unübersichtlichen Stellen Geschwindigkeit reduzieren.",
+          "Mit höherer Geschwindigkeit wachsen Reaktions- und Bremsstrecken."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Erlaubt bedeutet nicht immer sicher.",
+        "bullets": [
+          "Erlaubt bedeutet nicht immer sicher.",
+          "Wetter und Sicht entscheiden mit."
+        ]
+      }
+    ],
+    "key_points": [
+      "Sichtweite und Fahrbahnzustand berücksichtigen.",
+      "Vor unübersichtlichen Stellen Geschwindigkeit reduzieren.",
+      "Mit höherer Geschwindigkeit wachsen Reaktions- und Bremsstrecken."
+    ],
+    "exam_tips": [
+      "Erlaubt bedeutet nicht immer sicher.",
+      "Wetter und Sicht entscheiden mit."
+    ],
+    "tags": [
+      "geschwindigkeit und abstand",
+      "geschwindigkeit",
+      "angepasste geschwindigkeit"
+    ]
+  },
+  {
+    "id": "de_022",
+    "category": "Geschwindigkeit und Abstand",
+    "module": "Abstand",
+    "order": 2,
+    "title": "Sicherheitsabstand",
+    "minutes": 12,
+    "summary": "Ausreichender Abstand schafft Zeit für Wahrnehmung, Reaktion und Bremsung.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Ausreichender Abstand schafft Zeit für Wahrnehmung, Reaktion und Bremsung.",
+        "bullets": [
+          "Bei Nässe oder schlechter Sicht Abstand vergrößern.",
+          "Nicht dicht hinter großen Fahrzeugen fahren."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Bei Nässe oder schlechter Sicht Abstand vergrößern.",
+        "bullets": [
+          "Nicht dicht hinter großen Fahrzeugen fahren.",
+          "Abstand an Geschwindigkeit anpassen."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Abstand ist deine Zeitreserve.",
+        "bullets": [
+          "Abstand ist deine Zeitreserve.",
+          "Schlechtere Bedingungen brauchen mehr Abstand."
+        ]
+      }
+    ],
+    "key_points": [
+      "Bei Nässe oder schlechter Sicht Abstand vergrößern.",
+      "Nicht dicht hinter großen Fahrzeugen fahren.",
+      "Abstand an Geschwindigkeit anpassen."
+    ],
+    "exam_tips": [
+      "Abstand ist deine Zeitreserve.",
+      "Schlechtere Bedingungen brauchen mehr Abstand."
+    ],
+    "tags": [
+      "geschwindigkeit und abstand",
+      "abstand",
+      "sicherheitsabstand"
+    ]
+  },
+  {
+    "id": "de_023",
+    "category": "Geschwindigkeit und Abstand",
+    "module": "Bremsweg",
+    "order": 3,
+    "title": "Reaktions-, Brems- und Anhalteweg",
+    "minutes": 13,
+    "summary": "Der Anhalteweg besteht aus Reaktionsweg und Bremsweg.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Der Anhalteweg besteht aus Reaktionsweg und Bremsweg.",
+        "bullets": [
+          "Mehr Geschwindigkeit verlängert den Anhalteweg deutlich.",
+          "Schlechte Haftung verlängert den Bremsweg."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Mehr Geschwindigkeit verlängert den Anhalteweg deutlich.",
+        "bullets": [
+          "Schlechte Haftung verlängert den Bremsweg.",
+          "Ablenkung vergrößert den Reaktionsweg."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Reaktions- und Bremsanteil getrennt denken.",
+        "bullets": [
+          "Reaktions- und Bremsanteil getrennt denken.",
+          "Tempo wirkt stark auf den Bremsweg."
+        ]
+      }
+    ],
+    "key_points": [
+      "Mehr Geschwindigkeit verlängert den Anhalteweg deutlich.",
+      "Schlechte Haftung verlängert den Bremsweg.",
+      "Ablenkung vergrößert den Reaktionsweg."
+    ],
+    "exam_tips": [
+      "Reaktions- und Bremsanteil getrennt denken.",
+      "Tempo wirkt stark auf den Bremsweg."
+    ],
+    "tags": [
+      "geschwindigkeit und abstand",
+      "bremsweg",
+      "reaktions-, brems- und anhalteweg"
+    ]
+  },
+  {
+    "id": "de_024",
+    "category": "Geschwindigkeit und Abstand",
+    "module": "Kolonne",
+    "order": 4,
+    "title": "Fahren im dichten Verkehr",
+    "minutes": 14,
+    "summary": "Im dichten Verkehr helfen Abstand und gleichmäßiges Tempo, Auffahrunfälle zu vermeiden.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Im dichten Verkehr helfen Abstand und gleichmäßiges Tempo, Auffahrunfälle zu vermeiden.",
+        "bullets": [
+          "Nicht ständig unnötig beschleunigen und bremsen.",
+          "Rettungswege und Kreuzungen nicht blockieren."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Nicht ständig unnötig beschleunigen und bremsen.",
+        "bullets": [
+          "Rettungswege und Kreuzungen nicht blockieren.",
+          "Genügend Abstand zum Vordermann halten."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Gleichmäßiges Fahren schafft Reserve.",
+        "bullets": [
+          "Gleichmäßiges Fahren schafft Reserve.",
+          "Nicht in Kreuzungsbereiche hineinfahren, wenn du sie nicht verlassen kannst."
+        ]
+      }
+    ],
+    "key_points": [
+      "Nicht ständig unnötig beschleunigen und bremsen.",
+      "Rettungswege und Kreuzungen nicht blockieren.",
+      "Genügend Abstand zum Vordermann halten."
+    ],
+    "exam_tips": [
+      "Gleichmäßiges Fahren schafft Reserve.",
+      "Nicht in Kreuzungsbereiche hineinfahren, wenn du sie nicht verlassen kannst."
+    ],
+    "tags": [
+      "geschwindigkeit und abstand",
+      "kolonne",
+      "fahren im dichten verkehr"
+    ]
+  },
+  {
+    "id": "de_025",
+    "category": "Besondere Situationen",
+    "module": "Autobahn",
+    "order": 1,
+    "title": "Autobahn und Einfädeln",
+    "minutes": 10,
+    "summary": "Beim Einfädeln sind Beobachtung, Beschleunigung und eine passende Lücke entscheidend.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Beim Einfädeln sind Beobachtung, Beschleunigung und eine passende Lücke entscheidend.",
+        "bullets": [
+          "Beschleunigungsstreifen zum Anpassen der Geschwindigkeit nutzen.",
+          "Spiegel und toten Winkel kontrollieren."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Beschleunigungsstreifen zum Anpassen der Geschwindigkeit nutzen.",
+        "bullets": [
+          "Spiegel und toten Winkel kontrollieren.",
+          "Nicht abrupt in eine zu kleine Lücke wechseln."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Früh beobachten und Lücke planen.",
+        "bullets": [
+          "Früh beobachten und Lücke planen.",
+          "Kein hektischer Spurwechsel."
+        ]
+      }
+    ],
+    "key_points": [
+      "Beschleunigungsstreifen zum Anpassen der Geschwindigkeit nutzen.",
+      "Spiegel und toten Winkel kontrollieren.",
+      "Nicht abrupt in eine zu kleine Lücke wechseln."
+    ],
+    "exam_tips": [
+      "Früh beobachten und Lücke planen.",
+      "Kein hektischer Spurwechsel."
+    ],
+    "tags": [
+      "besondere situationen",
+      "autobahn",
+      "autobahn und einfädeln"
+    ]
+  },
+  {
+    "id": "de_026",
+    "category": "Besondere Situationen",
+    "module": "Bahnübergang",
+    "order": 2,
+    "title": "Bahnübergänge",
+    "minutes": 11,
+    "summary": "An Bahnübergängen haben Signale, Schranken und Sicht auf den Schienenbereich besondere Bedeutung.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "An Bahnübergängen haben Signale, Schranken und Sicht auf den Schienenbereich besondere Bedeutung.",
+        "bullets": [
+          "Niemals auf den Gleisen warten.",
+          "Bei Warnsignal oder geschlossener Schranke anhalten."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Niemals auf den Gleisen warten.",
+        "bullets": [
+          "Bei Warnsignal oder geschlossener Schranke anhalten.",
+          "Nur weiterfahren, wenn der Bereich frei ist."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Gleisbereich immer vollständig räumen können.",
+        "bullets": [
+          "Gleisbereich immer vollständig räumen können.",
+          "Warnsignale nicht umfahren."
+        ]
+      }
+    ],
+    "key_points": [
+      "Niemals auf den Gleisen warten.",
+      "Bei Warnsignal oder geschlossener Schranke anhalten.",
+      "Nur weiterfahren, wenn der Bereich frei ist."
+    ],
+    "exam_tips": [
+      "Gleisbereich immer vollständig räumen können.",
+      "Warnsignale nicht umfahren."
+    ],
+    "tags": [
+      "besondere situationen",
+      "bahnübergang",
+      "bahnübergänge"
+    ]
+  },
+  {
+    "id": "de_027",
+    "category": "Besondere Situationen",
+    "module": "Tunnel",
+    "order": 3,
+    "title": "Tunnel und Panne",
+    "minutes": 12,
+    "summary": "Im Tunnel sind Abstand, Beleuchtung und das Verhalten bei Pannen besonders wichtig.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Im Tunnel sind Abstand, Beleuchtung und das Verhalten bei Pannen besonders wichtig.",
+        "bullets": [
+          "Sicherheitsabstand einhalten.",
+          "Bei Panne möglichst eine sichere Stelle erreichen."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Sicherheitsabstand einhalten.",
+        "bullets": [
+          "Bei Panne möglichst eine sichere Stelle erreichen.",
+          "Notruf- und Fluchtinformationen beachten."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Im Tunnel keine unnötigen Wendemanöver.",
+        "bullets": [
+          "Im Tunnel keine unnötigen Wendemanöver.",
+          "Ruhe bewahren und Hinweise befolgen."
+        ]
+      }
+    ],
+    "key_points": [
+      "Sicherheitsabstand einhalten.",
+      "Bei Panne möglichst eine sichere Stelle erreichen.",
+      "Notruf- und Fluchtinformationen beachten."
+    ],
+    "exam_tips": [
+      "Im Tunnel keine unnötigen Wendemanöver.",
+      "Ruhe bewahren und Hinweise befolgen."
+    ],
+    "tags": [
+      "besondere situationen",
+      "tunnel",
+      "tunnel und panne"
+    ]
+  },
+  {
+    "id": "de_028",
+    "category": "Besondere Situationen",
+    "module": "Einsatzfahrzeuge",
+    "order": 4,
+    "title": "Einsatzfahrzeuge und Rettungsgasse",
+    "minutes": 13,
+    "summary": "Einsatzfahrzeugen muss sicher und frühzeitig Platz geschaffen werden.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Einsatzfahrzeugen muss sicher und frühzeitig Platz geschaffen werden.",
+        "bullets": [
+          "Keine hektischen gefährlichen Manöver durchführen.",
+          "Rettungswege bei stockendem Verkehr freihalten."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Keine hektischen gefährlichen Manöver durchführen.",
+        "bullets": [
+          "Rettungswege bei stockendem Verkehr freihalten.",
+          "Umfeld prüfen bevor du Platz machst."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Platz schaffen, aber kontrolliert.",
+        "bullets": [
+          "Platz schaffen, aber kontrolliert.",
+          "Andere Verkehrsteilnehmer mitdenken."
+        ]
+      }
+    ],
+    "key_points": [
+      "Keine hektischen gefährlichen Manöver durchführen.",
+      "Rettungswege bei stockendem Verkehr freihalten.",
+      "Umfeld prüfen bevor du Platz machst."
+    ],
+    "exam_tips": [
+      "Platz schaffen, aber kontrolliert.",
+      "Andere Verkehrsteilnehmer mitdenken."
+    ],
+    "tags": [
+      "besondere situationen",
+      "einsatzfahrzeuge",
+      "einsatzfahrzeuge und rettungsgasse"
+    ]
+  },
+  {
+    "id": "de_029",
+    "category": "Klasse B Zusatzstoff",
+    "module": "Fahrdynamik",
+    "order": 1,
+    "title": "Kurven, Schwerpunkt und Seitenkräfte",
+    "minutes": 14,
+    "summary": "Geschwindigkeit und Beladung beeinflussen die Stabilität eines Pkw besonders in Kurven.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Geschwindigkeit und Beladung beeinflussen die Stabilität eines Pkw besonders in Kurven.",
+        "bullets": [
+          "Vor der Kurve angemessen Geschwindigkeit reduzieren.",
+          "Abrupte Lenkbewegungen vermeiden."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Vor der Kurve angemessen Geschwindigkeit reduzieren.",
+        "bullets": [
+          "Abrupte Lenkbewegungen vermeiden.",
+          "Beladung kann Schwerpunkt und Fahrverhalten verändern."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Kurve vor dem Einlenken beurteilen.",
+        "bullets": [
+          "Kurve vor dem Einlenken beurteilen.",
+          "Ruhige Lenk- und Geschwindigkeitsänderungen."
+        ]
+      }
+    ],
+    "key_points": [
+      "Vor der Kurve angemessen Geschwindigkeit reduzieren.",
+      "Abrupte Lenkbewegungen vermeiden.",
+      "Beladung kann Schwerpunkt und Fahrverhalten verändern."
+    ],
+    "exam_tips": [
+      "Kurve vor dem Einlenken beurteilen.",
+      "Ruhige Lenk- und Geschwindigkeitsänderungen."
+    ],
+    "tags": [
+      "klasse b zusatzstoff",
+      "fahrdynamik",
+      "kurven, schwerpunkt und seitenkräfte"
+    ]
+  },
+  {
+    "id": "de_030",
+    "category": "Klasse B Zusatzstoff",
+    "module": "Anhänger",
+    "order": 2,
+    "title": "Grundlagen Anhängerbetrieb",
+    "minutes": 10,
+    "summary": "Ein Anhänger verändert Länge, Wendigkeit, Bremsverhalten und Rückwärtsfahrt des Gespanns.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Ein Anhänger verändert Länge, Wendigkeit, Bremsverhalten und Rückwärtsfahrt des Gespanns.",
+        "bullets": [
+          "Mehr Platz für Kurven und Rangieren einplanen.",
+          "Kupplung und Sicherung kontrollieren."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Mehr Platz für Kurven und Rangieren einplanen.",
+        "bullets": [
+          "Kupplung und Sicherung kontrollieren.",
+          "Beladung und zulässige Werte beachten."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Gespann fährt anders als Solo-Pkw.",
+        "bullets": [
+          "Gespann fährt anders als Solo-Pkw.",
+          "Vor Abfahrt Verbindung kontrollieren."
+        ]
+      }
+    ],
+    "key_points": [
+      "Mehr Platz für Kurven und Rangieren einplanen.",
+      "Kupplung und Sicherung kontrollieren.",
+      "Beladung und zulässige Werte beachten."
+    ],
+    "exam_tips": [
+      "Gespann fährt anders als Solo-Pkw.",
+      "Vor Abfahrt Verbindung kontrollieren."
+    ],
+    "tags": [
+      "klasse b zusatzstoff",
+      "anhänger",
+      "grundlagen anhängerbetrieb"
+    ]
+  },
+  {
+    "id": "de_031",
+    "category": "Klasse B Zusatzstoff",
+    "module": "Assistenz",
+    "order": 3,
+    "title": "Fahrerassistenzsysteme",
+    "minutes": 11,
+    "summary": "Assistenzsysteme unterstützen den Fahrer, ihre Grenzen müssen aber bekannt sein.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Assistenzsysteme unterstützen den Fahrer, ihre Grenzen müssen aber bekannt sein.",
+        "bullets": [
+          "Sensoren können durch Wetter oder Verschmutzung beeinträchtigt werden.",
+          "Der Fahrer muss die Verkehrslage weiter überwachen."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Sensoren können durch Wetter oder Verschmutzung beeinträchtigt werden.",
+        "bullets": [
+          "Der Fahrer muss die Verkehrslage weiter überwachen.",
+          "Warnungen und Systemgrenzen beachten."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Assistenz ersetzt keine Aufmerksamkeit.",
+        "bullets": [
+          "Assistenz ersetzt keine Aufmerksamkeit.",
+          "Bei unklarer Systemfunktion selbst sicher übernehmen."
+        ]
+      }
+    ],
+    "key_points": [
+      "Sensoren können durch Wetter oder Verschmutzung beeinträchtigt werden.",
+      "Der Fahrer muss die Verkehrslage weiter überwachen.",
+      "Warnungen und Systemgrenzen beachten."
+    ],
+    "exam_tips": [
+      "Assistenz ersetzt keine Aufmerksamkeit.",
+      "Bei unklarer Systemfunktion selbst sicher übernehmen."
+    ],
+    "tags": [
+      "klasse b zusatzstoff",
+      "assistenz",
+      "fahrerassistenzsysteme"
+    ]
+  },
+  {
+    "id": "de_032",
+    "category": "Klasse B Zusatzstoff",
+    "module": "Elektromobilität",
+    "order": 4,
+    "title": "Elektro- und Hybridfahrzeuge",
+    "minutes": 12,
+    "summary": "Elektrofahrzeuge haben besondere Energie-, Rekuperations- und Geräuscheigenschaften.",
+    "sections": [
+      {
+        "heading": "Grundwissen",
+        "body": "Elektrofahrzeuge haben besondere Energie-, Rekuperations- und Geräuscheigenschaften.",
+        "bullets": [
+          "Mit leiserem Fahrzeuggeräusch bei niedriger Geschwindigkeit rechnen.",
+          "Rekuperation kann das Verzögerungsverhalten beeinflussen."
+        ]
+      },
+      {
+        "heading": "Sichere Anwendung",
+        "body": "Mit leiserem Fahrzeuggeräusch bei niedriger Geschwindigkeit rechnen.",
+        "bullets": [
+          "Rekuperation kann das Verzögerungsverhalten beeinflussen.",
+          "Lade- und Hochvoltsysteme nur sachgerecht bedienen."
+        ]
+      },
+      {
+        "heading": "Prüfungstipp",
+        "body": "Andere können ein leises Fahrzeug später wahrnehmen.",
+        "bullets": [
+          "Andere können ein leises Fahrzeug später wahrnehmen.",
+          "Fahrzeughinweise und Warnungen beachten."
+        ]
+      }
+    ],
+    "key_points": [
+      "Mit leiserem Fahrzeuggeräusch bei niedriger Geschwindigkeit rechnen.",
+      "Rekuperation kann das Verzögerungsverhalten beeinflussen.",
+      "Lade- und Hochvoltsysteme nur sachgerecht bedienen."
+    ],
+    "exam_tips": [
+      "Andere können ein leises Fahrzeug später wahrnehmen.",
+      "Fahrzeughinweise und Warnungen beachten."
+    ],
+    "tags": [
+      "klasse b zusatzstoff",
+      "elektromobilität",
+      "elektro- und hybridfahrzeuge"
+    ]
+  }
+]

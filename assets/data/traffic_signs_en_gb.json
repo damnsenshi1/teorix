@@ -1,0 +1,110 @@
+[
+  {
+    "id": "stop",
+    "group": "Priority",
+    "name": "STOP",
+    "meaning": "Come to a complete stop and proceed only when it is safe.",
+    "shape": "octagon",
+    "symbol": "STOP",
+    "memory_tip": "Eight sides = STOP."
+  },
+  {
+    "id": "give_way",
+    "group": "Priority",
+    "name": "Give Way",
+    "meaning": "Give priority as required before joining or crossing traffic.",
+    "shape": "yield",
+    "symbol": "",
+    "memory_tip": "Inverted triangle = give way."
+  },
+  {
+    "id": "no_entry",
+    "group": "Prohibition",
+    "name": "No entry",
+    "meaning": "Do not enter from this direction.",
+    "shape": "no_entry",
+    "symbol": "",
+    "memory_tip": "Red circle with white bar = no entry."
+  },
+  {
+    "id": "speed30",
+    "group": "Speed",
+    "name": "Maximum speed 30",
+    "meaning": "The maximum speed shown is 30 mph where the sign applies.",
+    "shape": "speed",
+    "symbol": "30",
+    "memory_tip": "Red ring plus number = maximum speed."
+  },
+  {
+    "id": "national",
+    "group": "Speed",
+    "name": "National speed limit",
+    "meaning": "The national speed limit applies subject to road and vehicle rules.",
+    "shape": "speed",
+    "symbol": "/",
+    "memory_tip": "White circle with black diagonal stripe."
+  },
+  {
+    "id": "no_parking",
+    "group": "Parking",
+    "name": "No waiting",
+    "meaning": "Waiting restrictions apply as shown by the sign and nearby plates.",
+    "shape": "no_parking",
+    "symbol": "",
+    "memory_tip": "Read nearby plates for times."
+  },
+  {
+    "id": "no_stop",
+    "group": "Parking",
+    "name": "No stopping",
+    "meaning": "Stopping restrictions apply where the sign is in force.",
+    "shape": "no_stop",
+    "symbol": "",
+    "memory_tip": "Crossed restriction is stronger than waiting-only."
+  },
+  {
+    "id": "mandatory_left",
+    "group": "Mandatory",
+    "name": "Turn left",
+    "meaning": "Traffic must follow the indicated direction.",
+    "shape": "mandatory",
+    "symbol": "←",
+    "memory_tip": "Blue circle = mandatory instruction."
+  },
+  {
+    "id": "warning",
+    "group": "Warning",
+    "name": "Warning sign",
+    "meaning": "Warns of a hazard or road condition ahead.",
+    "shape": "warning",
+    "symbol": "!",
+    "memory_tip": "Triangle = warning."
+  },
+  {
+    "id": "motorway",
+    "group": "Information",
+    "name": "Motorway",
+    "meaning": "Indicates motorway regulations or route information.",
+    "shape": "info",
+    "symbol": "M",
+    "memory_tip": "Blue motorway signs indicate motorway information."
+  },
+  {
+    "id": "school",
+    "group": "Warning",
+    "name": "Children",
+    "meaning": "Warns that children may be crossing or nearby.",
+    "shape": "warning",
+    "symbol": "👧",
+    "memory_tip": "Slow down and scan both sides."
+  },
+  {
+    "id": "roundabout",
+    "group": "Mandatory",
+    "name": "Roundabout",
+    "meaning": "Follow the indicated circulation around the roundabout.",
+    "shape": "mandatory",
+    "symbol": "↻",
+    "memory_tip": "Circular arrows = roundabout."
+  }
+]

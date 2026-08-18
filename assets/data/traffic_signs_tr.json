@@ -1,0 +1,551 @@
+[
+  {
+    "id": "stop",
+    "group": "Trafik Tanzim",
+    "name": "DUR",
+    "meaning": "Aracı tamamen durdur; yol güvenliyse devam et.",
+    "shape": "octagon",
+    "symbol": "DUR",
+    "memory_tip": "Kırmızı sekizgen yalnız DUR levhasıdır."
+  },
+  {
+    "id": "yield",
+    "group": "Trafik Tanzim",
+    "name": "Yol Ver",
+    "meaning": "Öncelikli yoldaki veya geçiş hakkı olan trafiğe yol ver.",
+    "shape": "yield",
+    "symbol": "",
+    "memory_tip": "Ters üçgen = Yol Ver."
+  },
+  {
+    "id": "no_entry",
+    "group": "Trafik Tanzim",
+    "name": "Girişi Olmayan Yol",
+    "meaning": "Bu yönden araç girişinin yasak olduğunu bildirir.",
+    "shape": "no_entry",
+    "symbol": "",
+    "memory_tip": "Kırmızı daire içindeki beyaz yatay şerit."
+  },
+  {
+    "id": "closed_vehicles",
+    "group": "Trafik Tanzim",
+    "name": "Taşıt Trafiğine Kapalı Yol",
+    "meaning": "Yolun taşıt trafiğine kapalı olduğunu bildirir.",
+    "shape": "prohibition",
+    "symbol": "🚘",
+    "memory_tip": "Kırmızı çember genel olarak yasaklama bildirir."
+  },
+  {
+    "id": "no_motor_vehicle",
+    "group": "Trafik Tanzim",
+    "name": "Motorlu Taşıt Giremez",
+    "meaning": "Motorlu taşıtların girişinin yasak olduğunu bildirir.",
+    "shape": "prohibition",
+    "symbol": "M",
+    "memory_tip": "Kırmızı çember içindeki simge hangi aracın yasak olduğunu anlatır."
+  },
+  {
+    "id": "no_motorcycle",
+    "group": "Trafik Tanzim",
+    "name": "Motosiklet Giremez",
+    "meaning": "Motosikletlerin bu yola giremeyeceğini bildirir.",
+    "shape": "prohibition",
+    "symbol": "🏍",
+    "memory_tip": "Motosiklet simgesi + kırmızı çember = motosiklete yasak."
+  },
+  {
+    "id": "no_bicycle",
+    "group": "Trafik Tanzim",
+    "name": "Bisiklet Giremez",
+    "meaning": "Bisiklet girişinin yasak olduğunu bildirir.",
+    "shape": "prohibition",
+    "symbol": "🚲",
+    "memory_tip": "Bisiklet simgesi + kırmızı çember = bisiklete yasak."
+  },
+  {
+    "id": "no_pedestrian",
+    "group": "Trafik Tanzim",
+    "name": "Yaya Giremez",
+    "meaning": "Yayaların bu kesime girmesinin yasak olduğunu bildirir.",
+    "shape": "prohibition",
+    "symbol": "🚶",
+    "memory_tip": "Yaya simgesi kırmızı çember içindeyse giriş yasaktır."
+  },
+  {
+    "id": "no_truck",
+    "group": "Trafik Tanzim",
+    "name": "Kamyon Giremez",
+    "meaning": "Kamyonların bu yola girmesinin yasak olduğunu bildirir.",
+    "shape": "prohibition",
+    "symbol": "🚚",
+    "memory_tip": "Araç türü simgesi yasaklanan taşıtı gösterir."
+  },
+  {
+    "id": "no_overtaking",
+    "group": "Trafik Tanzim",
+    "name": "Öndeki Taşıtı Geçmek Yasaktır",
+    "meaning": "Geçme yasağının başladığını bildirir.",
+    "shape": "prohibition",
+    "symbol": "⇉",
+    "memory_tip": "Geçme manevrası simgesi kırmızı çember içindedir."
+  },
+  {
+    "id": "end_no_overtaking",
+    "group": "Trafik Tanzim",
+    "name": "Geçme Yasağı Sonu",
+    "meaning": "Öndeki taşıtı geçme yasağının sona erdiğini bildirir.",
+    "shape": "info",
+    "symbol": "⇉",
+    "memory_tip": "Yasak sonu levhalarında kısıtlamanın bittiğine dikkat et."
+  },
+  {
+    "id": "no_u_turn",
+    "group": "Trafik Tanzim",
+    "name": "U Dönüşü Yapılmaz",
+    "meaning": "U dönüşünün yasak olduğunu bildirir.",
+    "shape": "prohibition",
+    "symbol": "↶",
+    "memory_tip": "Kırmızı çember içindeki dönüş oku yasağı gösterir."
+  },
+  {
+    "id": "no_left",
+    "group": "Trafik Tanzim",
+    "name": "Sola Dönülmez",
+    "meaning": "Sola dönüşün yasak olduğunu bildirir.",
+    "shape": "prohibition",
+    "symbol": "←",
+    "memory_tip": "Ok yönü yasaklanan manevrayı gösterir."
+  },
+  {
+    "id": "no_right",
+    "group": "Trafik Tanzim",
+    "name": "Sağa Dönülmez",
+    "meaning": "Sağa dönüşün yasak olduğunu bildirir.",
+    "shape": "prohibition",
+    "symbol": "→",
+    "memory_tip": "Ok yönü yasaklanan manevrayı gösterir."
+  },
+  {
+    "id": "speed30",
+    "group": "Trafik Tanzim",
+    "name": "Azami Hız 30",
+    "meaning": "Hızın 30 km/saati aşmaması gerektiğini bildirir.",
+    "shape": "speed",
+    "symbol": "30",
+    "memory_tip": "Kırmızı çember içindeki sayı azami hızdır."
+  },
+  {
+    "id": "speed50",
+    "group": "Trafik Tanzim",
+    "name": "Azami Hız 50",
+    "meaning": "Hızın 50 km/saati aşmaması gerektiğini bildirir.",
+    "shape": "speed",
+    "symbol": "50",
+    "memory_tip": "Kırmızı çember içindeki sayı azami hızdır."
+  },
+  {
+    "id": "speed70",
+    "group": "Trafik Tanzim",
+    "name": "Azami Hız 70",
+    "meaning": "Hızın 70 km/saati aşmaması gerektiğini bildirir.",
+    "shape": "speed",
+    "symbol": "70",
+    "memory_tip": "Sayı bir hedef değil, üst sınırdır."
+  },
+  {
+    "id": "min_speed",
+    "group": "Trafik Tanzim",
+    "name": "Asgari Hız",
+    "meaning": "Belirtilen hızın altına inilmemesi gereken yolu bildirir.",
+    "shape": "mandatory",
+    "symbol": "30",
+    "memory_tip": "Mavi daire içindeki hız değeri asgari hızı anlatır."
+  },
+  {
+    "id": "straight",
+    "group": "Trafik Tanzim",
+    "name": "İleri Mecburi Yön",
+    "meaning": "Sürücünün ileri yönde devam etmesi gerektiğini bildirir.",
+    "shape": "mandatory",
+    "symbol": "↑",
+    "memory_tip": "Mavi daire = uyulması zorunlu yön veya davranış."
+  },
+  {
+    "id": "right",
+    "group": "Trafik Tanzim",
+    "name": "Sağa Mecburi Yön",
+    "meaning": "Sağa dönmenin zorunlu olduğunu bildirir.",
+    "shape": "mandatory",
+    "symbol": "→",
+    "memory_tip": "Mavi dairedeki ok zorunlu yönü gösterir."
+  },
+  {
+    "id": "left",
+    "group": "Trafik Tanzim",
+    "name": "Sola Mecburi Yön",
+    "meaning": "Sola dönmenin zorunlu olduğunu bildirir.",
+    "shape": "mandatory",
+    "symbol": "←",
+    "memory_tip": "Mavi dairedeki ok zorunlu yönü gösterir."
+  },
+  {
+    "id": "roundabout",
+    "group": "Trafik Tanzim",
+    "name": "Ada Etrafında Dönünüz",
+    "meaning": "Dönel kavşakta okun gösterdiği yönde hareket edilmesi gerektiğini bildirir.",
+    "shape": "mandatory",
+    "symbol": "⟳",
+    "memory_tip": "Dairesel oklar dönel kavşak hareketini hatırlatır."
+  },
+  {
+    "id": "keep_right",
+    "group": "Trafik Tanzim",
+    "name": "Sağdan Gidiniz",
+    "meaning": "Engel veya adanın sağından geçilmesi gerektiğini bildirir.",
+    "shape": "mandatory",
+    "symbol": "↘",
+    "memory_tip": "Mavi ok hangi taraftan geçileceğini söyler."
+  },
+  {
+    "id": "keep_left",
+    "group": "Trafik Tanzim",
+    "name": "Soldan Gidiniz",
+    "meaning": "Engel veya adanın solundan geçilmesi gerektiğini bildirir.",
+    "shape": "mandatory",
+    "symbol": "↙",
+    "memory_tip": "Mavi ok hangi taraftan geçileceğini söyler."
+  },
+  {
+    "id": "no_parking",
+    "group": "Trafik Tanzim",
+    "name": "Park Etmek Yasaktır",
+    "meaning": "Park etmenin yasak olduğunu bildirir.",
+    "shape": "no_parking",
+    "symbol": "",
+    "memory_tip": "Tek kırmızı çapraz/işaret park yasağı olarak düşün."
+  },
+  {
+    "id": "no_stop",
+    "group": "Trafik Tanzim",
+    "name": "Duraklamak ve Park Etmek Yasaktır",
+    "meaning": "Duraklama ve park etmenin yasak olduğunu bildirir.",
+    "shape": "no_stop",
+    "symbol": "",
+    "memory_tip": "Çift çapraz daha sıkı yasağı hatırlatır."
+  },
+  {
+    "id": "road_work",
+    "group": "Tehlike Uyarı",
+    "name": "Yolda Çalışma",
+    "meaning": "İleride yol çalışması bulunduğunu bildirir; hız azaltılmalıdır.",
+    "shape": "warning",
+    "symbol": "⚒",
+    "memory_tip": "Üçgen = tehlike/uyarı; içindeki simge tehlikenin türüdür."
+  },
+  {
+    "id": "traffic_lights",
+    "group": "Tehlike Uyarı",
+    "name": "Işıklı İşaret Cihazı",
+    "meaning": "İleride trafik ışıkları bulunduğunu bildirir.",
+    "shape": "warning",
+    "symbol": "●",
+    "memory_tip": "Işık sembolü yaklaşan sinyalizasyonu anlatır."
+  },
+  {
+    "id": "crossroads",
+    "group": "Tehlike Uyarı",
+    "name": "Kontrolsüz Kavşak",
+    "meaning": "İleride kontrolsüz kavşak olduğunu bildirir.",
+    "shape": "warning",
+    "symbol": "＋",
+    "memory_tip": "Kesişen yollar = kavşak tehlikesi."
+  },
+  {
+    "id": "roundabout_ahead",
+    "group": "Tehlike Uyarı",
+    "name": "Dönel Kavşak Yaklaşımı",
+    "meaning": "İleride dönel kavşak olduğunu bildirir.",
+    "shape": "warning",
+    "symbol": "⟳",
+    "memory_tip": "Üçgen içindeki dairesel oklar yaklaşan dönel kavşağı belirtir."
+  },
+  {
+    "id": "pedestrian_crossing_warn",
+    "group": "Tehlike Uyarı",
+    "name": "Yaya Geçidi Yaklaşımı",
+    "meaning": "İleride yaya geçidi veya yoğun yaya hareketi olduğunu bildirir.",
+    "shape": "warning",
+    "symbol": "🚶",
+    "memory_tip": "Yaya simgesi = yayaya karşı hız ve dikkat."
+  },
+  {
+    "id": "children",
+    "group": "Tehlike Uyarı",
+    "name": "Çocuklar",
+    "meaning": "Okul veya çocukların yola çıkabileceği bir kesime yaklaşıldığını bildirir.",
+    "shape": "warning",
+    "symbol": "👧",
+    "memory_tip": "Çocuk görülen yerde hız azalt ve durmaya hazır ol."
+  },
+  {
+    "id": "bicycle_crossing",
+    "group": "Tehlike Uyarı",
+    "name": "Bisiklet Geçebilir",
+    "meaning": "Bisikletlilerin yola çıkabileceği bölgeyi bildirir.",
+    "shape": "warning",
+    "symbol": "🚲",
+    "memory_tip": "Bisiklet simgesi görünce yan ve kavşak hareketlerini kontrol et."
+  },
+  {
+    "id": "animals",
+    "group": "Tehlike Uyarı",
+    "name": "Hayvanlar Geçebilir",
+    "meaning": "Hayvanların yola çıkabileceği kesimi bildirir.",
+    "shape": "warning",
+    "symbol": "🐄",
+    "memory_tip": "Kırsal bölgede hızını görüşe göre azalt."
+  },
+  {
+    "id": "slippery",
+    "group": "Tehlike Uyarı",
+    "name": "Kaygan Yol",
+    "meaning": "Yol yüzeyinin kaygan olabileceğini bildirir.",
+    "shape": "warning",
+    "symbol": "〰",
+    "memory_tip": "Kaygan zeminde ani fren ve direksiyon hareketinden kaçın."
+  },
+  {
+    "id": "bump",
+    "group": "Tehlike Uyarı",
+    "name": "Kasisli Yol",
+    "meaning": "İleride kasis veya tümsek bulunduğunu bildirir.",
+    "shape": "warning",
+    "symbol": "⌒",
+    "memory_tip": "Tümsek şekli hız azaltmayı hatırlatır."
+  },
+  {
+    "id": "rough_road",
+    "group": "Tehlike Uyarı",
+    "name": "Kasisli / Bozuk Yol",
+    "meaning": "Yol yüzeyinde düzensizlikler bulunduğunu bildirir.",
+    "shape": "warning",
+    "symbol": "≈",
+    "memory_tip": "Bozuk zeminde hızını ve takip mesafeni ayarla."
+  },
+  {
+    "id": "narrow_both",
+    "group": "Tehlike Uyarı",
+    "name": "İki Taraftan Daralan Yol",
+    "meaning": "Yolun ileride iki taraftan daralacağını bildirir.",
+    "shape": "warning",
+    "symbol": "><",
+    "memory_tip": "İki çizgi birbirine yaklaşıyorsa yol daralır."
+  },
+  {
+    "id": "narrow_right",
+    "group": "Tehlike Uyarı",
+    "name": "Sağdan Daralan Yol",
+    "meaning": "Yolun sağ tarafından daralacağını bildirir.",
+    "shape": "warning",
+    "symbol": ">│",
+    "memory_tip": "Daralma yönü levha şekline göre anlaşılır."
+  },
+  {
+    "id": "narrow_left",
+    "group": "Tehlike Uyarı",
+    "name": "Soldan Daralan Yol",
+    "meaning": "Yolun sol tarafından daralacağını bildirir.",
+    "shape": "warning",
+    "symbol": "│<",
+    "memory_tip": "Daralma yönü levha şekline göre anlaşılır."
+  },
+  {
+    "id": "steep_down",
+    "group": "Tehlike Uyarı",
+    "name": "Tehlikeli Eğim - İniş",
+    "meaning": "İleride dik iniş bulunduğunu bildirir; uygun vites ve hız seçilmelidir.",
+    "shape": "warning",
+    "symbol": "↘",
+    "memory_tip": "Uzun inişte frenleri sürekli zorlamak yerine uygun vites kullan."
+  },
+  {
+    "id": "steep_up",
+    "group": "Tehlike Uyarı",
+    "name": "Tehlikeli Eğim - Çıkış",
+    "meaning": "İleride dik çıkış bulunduğunu bildirir.",
+    "shape": "warning",
+    "symbol": "↗",
+    "memory_tip": "Çıkış öncesi uygun vitesi seç."
+  },
+  {
+    "id": "two_way",
+    "group": "Tehlike Uyarı",
+    "name": "İki Yönlü Trafik",
+    "meaning": "Tek yönlü kesimin ardından karşı yön trafiğinin başlayacağını veya iki yönlü trafiği bildirir.",
+    "shape": "warning",
+    "symbol": "↕",
+    "memory_tip": "Zıt yönlü iki ok = iki yönlü trafik."
+  },
+  {
+    "id": "falling_rocks",
+    "group": "Tehlike Uyarı",
+    "name": "Gevşek Malzemeli / Taş Düşebilir",
+    "meaning": "Yola taş düşmesi veya gevşek malzeme riski bulunduğunu bildirir.",
+    "shape": "warning",
+    "symbol": "◢",
+    "memory_tip": "Dağ yamacı ve taş simgesinde kontrollü ilerle."
+  },
+  {
+    "id": "crosswind",
+    "group": "Tehlike Uyarı",
+    "name": "Yandan Rüzgâr",
+    "meaning": "Kuvvetli yan rüzgâr riski bulunduğunu bildirir.",
+    "shape": "warning",
+    "symbol": "≋",
+    "memory_tip": "Özellikle köprü ve açık alanda direksiyon kontrolüne dikkat."
+  },
+  {
+    "id": "railway_barrier",
+    "group": "Tehlike Uyarı",
+    "name": "Kontrollü Demiryolu Geçidi",
+    "meaning": "Bariyerli demiryolu geçidine yaklaşıldığını bildirir.",
+    "shape": "warning",
+    "symbol": "🚧",
+    "memory_tip": "Raylı geçitte işaret ve bariyerlere kesin uy."
+  },
+  {
+    "id": "railway_no_barrier",
+    "group": "Tehlike Uyarı",
+    "name": "Kontrolsüz Demiryolu Geçidi",
+    "meaning": "Bariyersiz demiryolu geçidine yaklaşıldığını bildirir.",
+    "shape": "warning",
+    "symbol": "✕",
+    "memory_tip": "Bariyer yoksa görüş ve tren kontrolü daha da kritik."
+  },
+  {
+    "id": "priority_road",
+    "group": "Bilgi",
+    "name": "Ana Yol",
+    "meaning": "Üzerinde bulunulan yolun öncelikli yol olduğunu bildirir.",
+    "shape": "info",
+    "symbol": "◆",
+    "memory_tip": "Sarı baklava ana/öncelikli yolu hatırlatır."
+  },
+  {
+    "id": "end_priority",
+    "group": "Bilgi",
+    "name": "Ana Yol Sonu",
+    "meaning": "Öncelikli yol durumunun sona erdiğini bildirir.",
+    "shape": "info",
+    "symbol": "◇",
+    "memory_tip": "Ana yol sembolünün sona erdiğini düşün."
+  },
+  {
+    "id": "one_way",
+    "group": "Bilgi",
+    "name": "Tek Yönlü Yol",
+    "meaning": "Trafiğin yalnız gösterilen yönde aktığını bildirir.",
+    "shape": "info",
+    "symbol": "→",
+    "memory_tip": "Dikdörtgen bilgi levhasındaki ok trafik yönünü gösterir."
+  },
+  {
+    "id": "parking",
+    "group": "Bilgi",
+    "name": "Park Yeri",
+    "meaning": "Park etmeye ayrılmış alanı bildirir.",
+    "shape": "info",
+    "symbol": "P",
+    "memory_tip": "Mavi zemin üzerindeki P park alanını gösterir."
+  },
+  {
+    "id": "hospital",
+    "group": "Bilgi",
+    "name": "Hastane",
+    "meaning": "Yakında hastane/sağlık tesisi olduğunu bildirir.",
+    "shape": "info",
+    "symbol": "H",
+    "memory_tip": "H harfi sağlık tesisini çağrıştırır."
+  },
+  {
+    "id": "first_aid",
+    "group": "Bilgi",
+    "name": "İlk Yardım",
+    "meaning": "Yakında ilk yardım imkânı bulunduğunu bildirir.",
+    "shape": "info",
+    "symbol": "+",
+    "memory_tip": "Artı işareti ilk yardım noktasını gösterir."
+  },
+  {
+    "id": "fuel",
+    "group": "Bilgi",
+    "name": "Akaryakıt İstasyonu",
+    "meaning": "Yakında yakıt istasyonu bulunduğunu bildirir.",
+    "shape": "info",
+    "symbol": "⛽",
+    "memory_tip": "Pompa simgesi akaryakıt hizmetini belirtir."
+  },
+  {
+    "id": "bus_stop",
+    "group": "Bilgi",
+    "name": "Otobüs Durağı",
+    "meaning": "Otobüslerin duraklama yaptığı noktayı bildirir.",
+    "shape": "info",
+    "symbol": "BUS",
+    "memory_tip": "Durak çevresinde yaya hareketine dikkat."
+  },
+  {
+    "id": "motorway",
+    "group": "Bilgi",
+    "name": "Otoyol Başlangıcı",
+    "meaning": "Otoyol kurallarının başladığını bildirir.",
+    "shape": "info",
+    "symbol": "OTO",
+    "memory_tip": "Otoyol simgesi özel yol kurallarının başladığını anlatır."
+  },
+  {
+    "id": "end_motorway",
+    "group": "Bilgi",
+    "name": "Otoyol Sonu",
+    "meaning": "Otoyol kurallarının sona erdiğini bildirir.",
+    "shape": "info",
+    "symbol": "OTO×",
+    "memory_tip": "Otoyol sembolünün üzerindeki sonlandırma işareti bitişi anlatır."
+  },
+  {
+    "id": "dead_end",
+    "group": "Bilgi",
+    "name": "Çıkmaz Yol",
+    "meaning": "Yolun ileride devam etmediğini bildirir.",
+    "shape": "info",
+    "symbol": "⊥",
+    "memory_tip": "T şekli, yolun ileride kapandığını hatırlatır."
+  },
+  {
+    "id": "pedestrian_crossing_info",
+    "group": "Bilgi",
+    "name": "Yaya Geçidi",
+    "meaning": "Yayaların karşıya geçmesi için ayrılmış yeri bildirir.",
+    "shape": "info",
+    "symbol": "🚶",
+    "memory_tip": "Geçit bölgesinde yayalara karşı durmaya hazır ol."
+  },
+  {
+    "id": "dangerous_curve",
+    "group": "Tehlike Uyarı",
+    "name": "Tehlikeli Viraj",
+    "meaning": "İleride keskin veya tehlikeli viraj bulunduğunu bildirir; hız ve konum güvenli şekilde ayarlanır.",
+    "shape": "warning",
+    "symbol": "↪",
+    "memory_tip": "Kırmızı üçgen içindeki kıvrılan ok yaklaşan virajı hatırlatır."
+  },
+  {
+    "id": "bicycle_path",
+    "group": "Mecburi Yön",
+    "name": "Bisiklet Yolu",
+    "meaning": "Bu yol veya bölümün bisikletler için ayrıldığını bildirir.",
+    "shape": "mandatory",
+    "symbol": "🚲",
+    "memory_tip": "Mavi daire içindeki bisiklet, bisikletler için ayrılmış yolu belirtir."
+  }
+]

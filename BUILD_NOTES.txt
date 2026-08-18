@@ -1,0 +1,36 @@
+TeoriX v1.2.0+12 — GLOBAL ZERO-COST FULL BUILD CANDIDATE
+=========================================================
+
+CONTENT
+- Türkiye B: 114 ders / 708 soru / 61 işaret
+- Nederland B: 32 ders / 288 soru / 10 işaret
+- Deutschland B: 32 ders / 288 soru / 10 işaret
+- United Kingdom Car: 52 ders / 416 soru / 12 işaret
+- California Class C: 32 ders / 288 soru / 9 işaret
+- TOTAL: 262 ders / 1.988 özgün soru / 102 işaret
+
+LANGUAGE
+- UI: Türkçe / Nederlands / Deutsch / English
+- Country != language. Hollanda paketini Türkçe/English vb. çalışmak mümkün.
+- Android/iOS: cihaz-içi çeviri backend'i.
+- Chrome: UI dili tam test edilir; dinamik ders/soru çevirisi kaynak dilde kalabilir.
+
+MONETIZATION
+- Free: temel eğitim + kontrollü reklam + sınırlı tam deneme.
+- Plus lifetime: reklamsız + tam trafik işareti oyunu + statik premium araçlar.
+- Pro monthly/yearly: Plus + kişiselleştirilmiş deneme + gelişmiş analiz + Son 48 Saat + gelişmiş Smart Teacher.
+- RevenueCat + Supabase server-side entitlement mirror hazır.
+- Gerçek AI API yok: API maliyeti 0.
+
+BACKEND
+- Supabase FULL_SCHEMA_V12.sql
+- seed_content_packs.sql
+- RevenueCat webhook Edge Function
+- remote content -> local cache -> bundled fallback
+
+BUILD
+- BUILD_ALL.bat = validate -> pub get -> dart fix -> format -> analyze -> test -> web -> debug APK
+- RELEASE_AAB.bat = production guard + AAB
+- FIX_LINTS.bat = dart fix + format
+
+NOT: Bu konteynerde Flutter/Dart SDK yok. Statik içerik/asset/source doğrulamaları PASS; ilk gerçek Flutter/Gradle compile geliştirici PC’sinde BUILD_ALL.bat ile yapılacaktır.

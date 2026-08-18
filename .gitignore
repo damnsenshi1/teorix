@@ -1,0 +1,19 @@
+.dart_tool/
+.packages
+.pub/
+build/
+android/.gradle/
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+.idea/
+.vscode/
+.DS_Store
+*.log
+.env
+.env.*
+config/teorix.local.json
+
+# One-time Supabase remote-content seed credential (never commit)
+SEED_SUPABASE_CONTENT.ps1
