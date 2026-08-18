@@ -2,12 +2,19 @@ class AppConfig {
   static const appName = 'TeoriX';
   static const developerName = 'Senshi Labs';
 
-  // Supabase values are injected at build time. The app remains local-first
-  // when they are empty, so development/testing does not depend on a backend.
-  static const supabaseUrl = String.fromEnvironment('SUPABASE_URL', defaultValue: '');
+  // TeoriX cloud defaults. Build-time dart-defines can still override these.
+  // The publishable key is safe to ship in the client; privileged service keys
+  // must never be placed in the app.
+  static const supabaseUrl = String.fromEnvironment(
+    'SUPABASE_URL',
+    defaultValue: 'https://ofajtgacffxfdaylcgex.supabase.co',
+  );
   static const supabasePublishableKey = String.fromEnvironment(
     'SUPABASE_PUBLISHABLE_KEY',
-    defaultValue: String.fromEnvironment('SUPABASE_ANON_KEY', defaultValue: ''),
+    defaultValue: String.fromEnvironment(
+      'SUPABASE_ANON_KEY',
+      defaultValue: 'sb_publishable_7DI7vp9jfRBprYG-4rmdJw_bp6lq2s8',
+    ),
   );
 
   // RevenueCat public SDK keys. Never place secret REST keys in the app.
