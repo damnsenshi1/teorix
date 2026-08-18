@@ -42,7 +42,7 @@ class AppUpdateService extends ChangeNotifier {
   static const _lastCheckKey = 'update_last_check_v1';
   static const _channel = MethodChannel('com.senshilabs.teorix/app_update');
 
-  bool autoDownload = true;
+  bool autoDownload = false;
   bool wifiOnly = false;
   bool checking = false;
   bool downloading = false;
@@ -57,7 +57,7 @@ class AppUpdateService extends ChangeNotifier {
 
   Future<void> initialize({bool checkOnStart = true}) async {
     final prefs = await SharedPreferences.getInstance();
-    autoDownload = prefs.getBool(_autoKey) ?? true;
+    autoDownload = prefs.getBool(_autoKey) ?? false;
     wifiOnly = prefs.getBool(_wifiKey) ?? false;
     final stamp = prefs.getInt(_lastCheckKey);
     if (stamp != null) lastCheck = DateTime.fromMillisecondsSinceEpoch(stamp);
